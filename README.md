@@ -1,8 +1,6 @@
 # Italienisch 5000
 
-Adapting the anki deck from: 
-
-<img src="https://i.imgur.com/z2iOTUX.png" alt="" width="800px">
+Adapting the anki deck from french to italian
 
 ## Was ist zu tun?
 Zum Beispiel:
