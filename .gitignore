@@ -9,9 +9,7 @@ audio/
 data/
 
 # ── Build / pipeline scripts (local only) ─────────────────────────────────────
-scripts/
 config.yaml
-requirements.txt
 
 # ── Corpus data (large, not needed in repo) ───────────────────────────────────
 italian/
