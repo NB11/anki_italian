@@ -31,12 +31,18 @@ STEPS = [
     },
     {
         "n": 3,
+        "script": "scripts/05_generate_conjugations.py",
+        "desc":   "Generate verb conjugation tables via Mistral",
+        "check":  None,   # always run (handles resume internally)
+    },
+    {
+        "n": 4,
         "script": "scripts/03_generate_audio.py",
         "desc":   "Generate audio MP3s via Google TTS",
         "check":  None,   # always run (handles resume internally)
     },
     {
-        "n": 4,
+        "n": 5,
         "script": "scripts/04_build_deck.py",
         "desc":   "Build Anki .apkg deck",
         "check":  None,
