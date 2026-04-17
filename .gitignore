@@ -6,7 +6,6 @@
 # ── Generated build artefacts ─────────────────────────────────────────────────
 *.apkg
 audio/
-data/
 
 # ── Corpus data (large, not needed in repo) ───────────────────────────────────
 italian/
