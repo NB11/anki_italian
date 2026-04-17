@@ -1,0 +1,33 @@
+# ── Secrets ───────────────────────────────────────────────────────────────────
+.env
+.claude
+
+
+# ── Generated build artefacts ─────────────────────────────────────────────────
+*.apkg
+audio/
+data/
+
+# ── Build / pipeline scripts (local only) ─────────────────────────────────────
+scripts/
+config.yaml
+requirements.txt
+
+# ── Corpus data (large, not needed in repo) ───────────────────────────────────
+italian/
+
+# ── Legacy French deck (kept locally as backup, not tracked) ──────────────────
+legacy/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# ── OS noise ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

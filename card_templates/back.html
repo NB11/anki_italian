@@ -1,0 +1,158 @@
+<link rel="prefetch" href="FR5000_grammar____VERSION___.json">
+<script id="options">
+var options = {
+  /* Standardmäßig wird die Übersetzung von Sätzen ausgeblendet und kann durch
+  ein Klicken angezeigt werden. Wenn die Übersetzung standardmäßig angezeigt
+  werden soll, setze den Wert auf false. */
+  "hideSpoilers": true,
+
+  /* Ob der erste Beispielsatz automatisch abgespielt werden soll. */
+  "autoPlaySentence": false,
+
+  /* Ob der erste Beispielsatz auf Deutsch vorgelesen werden soll. */
+  "autoPlaySentenceInGerman": false,
+
+  /* Ob der Beispielsatz vorgelesen werden soll, wenn das Lückenspiel gespielt wurde. */
+  "autoPlaySentenceOnClozeFinish": true,
+
+  /* Verzögerung in Millisekunden, bevor der erste Beispielsatz automatisch abgespielt wird. */
+  "autoPlaySentenceDelay": 1000,
+
+  /* Welche Konjugationen in der Tabelle angezeigt werden sollen. */
+  "tenses": [
+    "P", // Présent
+    "PC", // Pa. composé
+    "IT", // Imparfait
+    "F", // Futur
+    "IF", // Impératif
+    "G", // Gérondif
+    "C", // Conditionnel
+    "S", // Subjonctif
+    // "SI", // Subjonctif imparfait
+    "PS" // Passé simple
+  ],
+
+  /* Standardmäßig wird die kostenlose Google-Translate-API zum Vorlesen von
+  Beispielsätzen verwendet. Stattdessen kann auch die Cloud Text-to-Speech API
+  verwendet werden, die eine natürlichere Aussprache bietet. 1 Million Zeichen
+  pro Monat sind kostenlos. Erstelle ein Projekt in der Google Cloud Console
+  und aktiviere die Cloud Text-to-Speech API.
+  https://cloud.google.com/text-to-speech
+  Füge dann den API-Schlüssel in die Variable ein. */
+  "googleTTSApiKey": "___GOOGLE_TTS_API_KEY___"
+}
+</script>
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="referrer" content="no-referrer" />
+<!-- Dummy element to display in the Answer field in the Card Manager -->
+<div style="display: none;">{{Definition}}　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</div>
+<audio>
+  <source src="" />
+</audio>
+{{#Rang}}
+<div class="rank" data-content="{{Rang}}">{{Rang}}<br>{{Dispersion}}</div>
+{{/Rang}}
+<div class="word" data-word="{{Wort}}" data-feminine="{{Femininum / Plural}}">
+  {{Wort mit Artikel}}
+</div>
+
+{{#IPA}}
+<div id="ipa" class="ipa">{{IPA}}</div>
+{{/IPA}} {{#Audio}}
+<div class="audio">{{Audio}}</div>
+{{/Audio}}
+
+<div class="pos-definition">
+  <span class="pos">{{Wortart}}</span>
+  <span class="definition">{{Definition}}</span>
+</div>
+
+{{#Register}}<div class="register">{{Register}}</div>{{/Register}}
+<div class="card-box tappable" id="sentences">
+  <div class="box-float" id="next-sentence">
+    <div class="box-float-label" id="sentence-counter"></div>
+    <div class="button svg-button">
+      <div class="svg-icon icon-arrow-right"></div>
+    </div>
+    <div id="cloze-game-button" class="button svg-button">
+      <div class="svg-icon icon-cloze"></div>
+    </div>
+  </div>
+  <div id="sentences-inner">{{Beispielsätze}}</div>
+  <div id="cloze-game"></div>
+</div>
+{{#Notiz}}
+<div class="card-box tappable note">{{Notiz}}</div>
+{{/Notiz}} {{#Konjugation}}
+<div class="card-box tappable conjugation">
+  <div class="box-float" id="show-hide-button">
+    <div class="box-float-label" id="show-hide-label">Alles anzeigen</div>
+    <div class="button svg-button">
+      <div class="svg-icon icon-table"></div>
+    </div>
+  </div>
+  {{Konjugation}}
+  <div id="conjugation-grammar"></div>
+</div>
+{{/Konjugation}}
+<div class="card-box tappable collapsed" id="grammar-library">
+  <div class="box-float" id="close-grammar-library">
+    <div class="button svg-button">
+      <div class="svg-icon icon-close"></div>
+    </div>
+  </div>
+  <div class="button" id="show-hide-grammar-library">
+    <div class="button svg-button">
+      <div class="svg-icon icon-book"></div>
+    </div>
+    <div>&nbsp;Grammatik</div>
+  </div>
+  <div id="grammar-sections">
+    <div id="grammar-sections-title">
+      <div class="svg-icon icon-book small"></div>
+      Grammatik-Bibliothek
+    </div>
+    <div id="cefr-filter">
+      <div class="level-pills">
+        <div class="pill active" data-level="A1">A1</div>
+        <div class="pill active" data-level="A2">A2</div>
+        <div class="pill active" data-level="B1">B1</div>
+        <div class="pill active" data-level="B2">B2</div>
+        <div class="pill active" data-level="C1">C1</div>
+      </div>
+    </div>
+    <div id="grammar-search">
+      <div class="search-container">
+        <input type="text" id="grammar-search-input" placeholder="Grammatik durchsuchen...">
+        <div class="search-clear-button" id="grammar-search-clear">
+          <div class="svg-icon icon-close"></div>
+        </div>
+      </div>
+    </div>
+    <div id="grammar-no-results" style="display: none;">
+      <p>Keine Ergebnisse gefunden.</p>
+    </div>
+  </div>
+</div>
+<div class="tip" id="update-notice" style="display: none; font-size: 40%; margin-bottom: 2.5em;">
+  Das Deck wurde zuletzt vor <span id="update-notice-days"></span> Tagen aktualisiert. Führe ein <a href="https://ankiweb.net/shared/info/1677131827" target="_blank">Update</a> durch, um die neuesten Verbesserungen zu erhalten. Der Lernfortschritt bleibt erhalten.
+</div>
+<div class="github">
+  <a>Auf GitHub bearbeiten</a>
+</div>
+<div class="version">Stand: ___DATE___</div>
+<!--------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------->
+<script>
+___PERSISTENCE___;
+</script>
+<script>
+  (function () {
+___BACKJS___;
+  })();
+
+</script>

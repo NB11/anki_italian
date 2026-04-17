@@ -1,0 +1,40 @@
+<script id="options">
+  var options = {
+    /* Ob der Beispielsatz automatisch vorgelesen werden soll. */
+    "autoPlaySentence": false,
+
+    /* Ob der Beispielsatz vorgelesen werden soll, wenn das Lückenspiel gespielt wurde. */
+    "autoPlaySentenceOnClozeFinish": true,
+
+    /* Google Cloud TTS API key for high-quality voice synthesis.
+       Leave empty to use the free Google Translate TTS fallback.
+       https://cloud.google.com/text-to-speech */
+    "googleTTSApiKey": "___GOOGLE_TTS_API_KEY___"
+  }
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="referrer" content="no-referrer" />
+<audio>
+  <source src="" />
+</audio>
+<div class="word">{{Wort}}</div>
+{{#Beispielsätze}}
+<div id="front-sentence">
+  <div id="sentences-inner" class="tappable">{{Beispielsätze}}</div>
+  <div id="cloze-game"></div>
+</div>
+{{/Beispielsätze}}
+<!--------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------->
+<script>
+  ___PERSISTENCE___;
+</script>
+<script>
+  (function () {
+___COMMONJS___;
+
+___FRONT_ITDE___;
+  })();
+</script>
