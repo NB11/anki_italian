@@ -1,0 +1,17 @@
+# ── Word list ─────────────────────────────────────────────────────────────────
+words_total: 5000          # total words to extract from corpus (script 01)
+words_limit: null          # process only first N words, null = all (script 02)
+
+# ── Card content ──────────────────────────────────────────────────────────────
+sentences_per_card: 5      # example sentences per card (1–5)
+
+# ── Mistral API ───────────────────────────────────────────────────────────────
+mistral_model: mistral-small-latest
+mistral_rpm: 45            # requests per minute (free tier: ~60 max)
+
+# ── TTS ───────────────────────────────────────────────────────────────────────
+tts_voice: it-IT-Standard-A   # Google TTS voice (it-IT-Standard-A/B/C/D or Wavenet/Neural2/Studio)
+
+# ── Deck ──────────────────────────────────────────────────────────────────────
+deck_name: "Italiano 5000"
+output_file: "Italiano_5000.apkg"

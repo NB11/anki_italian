@@ -8,9 +8,6 @@
 audio/
 data/
 
-# ── Build / pipeline scripts (local only) ─────────────────────────────────────
-config.yaml
-
 # ── Corpus data (large, not needed in repo) ───────────────────────────────────
 italian/
 
