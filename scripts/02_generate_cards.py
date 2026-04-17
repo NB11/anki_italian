@@ -100,8 +100,10 @@ def _yaml_str(value: str) -> str:
 def _write_card(rank: int, lemma: str, data: dict) -> Path:
     CARDS_DIR.mkdir(exist_ok=True)
 
-    article   = (data.get("article")  or "").strip()
-    plural    = (data.get("plural")   or "").strip()
+    raw_article = data.get("article")
+    raw_plural  = data.get("plural")
+    article = (raw_article if isinstance(raw_article, str) else "").strip()
+    plural  = (raw_plural  if isinstance(raw_plural,  str) else "").strip()
     # l' elides directly onto the noun (no space)
     if article.endswith("'"):
         wort_mit = f"{article}{lemma}"
