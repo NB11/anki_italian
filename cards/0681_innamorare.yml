@@ -7,21 +7,35 @@ IPA: ''
 Definition: sich verlieben
 Register: ''
 Beispielsätze: |-
-  Mi *sono innamorato* di quella ragazza al primo sguardo.
-  Ich habe mich in dieses Mädchen auf den ersten Blick *verliebt*.
+  Se vuoi *innamorarti* di qualcuno, devi conoscerlo bene prima.
+  Wenn du dich in jemanden *verlieben* willst, solltest du ihn erst gut kennen.
   
-  Non vorrei *innamorarmi* mai più dopo questa delusione.
-  Ich würde mich nach dieser Enttäuschung nie wieder *verlieben* *wollen*.
+  Credo che lui si sia *innamorato* di quella canzone dolce che ascolta ogni giorno.
+  Ich glaube, er hat sich in dieses *süße* Lied verliebt, das er jeden Tag hört.
   
-  *Innamorarsi* è facile, ma restare innamorati richiede impegno.
-  Sich *zu verlieben* ist leicht, aber verliebt zu bleiben erfordert Mühe.
+  Nonostante tutto, lei non vuole *innamorarsi* di nuovo per non soffrire ancora.
+  Trotz allem will sie sich nicht wieder *verlieben*, um nicht noch einmal zu leiden.
   
-  Speravo che non ti *innamorassi* di un uomo così superficiale.
-  Ich hoffte, dass du dich nicht in einen so oberflächlichen Mann *verliebst*.
+  Spero che tu non ti *innamori* mai di una persona che ti fa del male spesso!
+  Ich hoffe, du *verliebst* dich nie in jemanden, der dir oft wehtut!
   
-  Se tu potessi *innamorarti* di me, sarebbe la cosa più bella del mondo.
-  Wenn du dich in mich *verlieben* *könntest*, wäre das das Schönste der Welt.
+  Anche se la relazione era sbagliata, lui non riuscì a *innamorarsi* di un’altra persona per mesi.
+  Auch wenn die Beziehung falsch war, konnte er sich monatelang nicht in eine andere Person *verlieben*.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>innamor</div></td><td class="irregular" data-full="innamoro"><div>-o</div></td><td class="irregular" data-full="innamori"><div>-i</div></td><td class="irregular" data-full="innamora"><div>-a</div></td><td class="irregular" data-full="innamoriamo"><div>-iamo</div></td><td class="irregular" data-full="innamorate"><div>-ate</div></td><td class="irregular" data-full="innamorano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>innamorav</div></td><td class="irregular" data-full="innamoravo"><div>-o</div></td><td class="irregular" data-full="innamoravi"><div>-i</div></td><td class="irregular" data-full="innamorava"><div>-a</div></td><td class="irregular" data-full="innamoravamo"><div>-amo</div></td><td class="irregular" data-full="innamoravate"><div>-ate</div></td><td class="irregular" data-full="innamoravano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>innamor</div></td><td class="irregular" data-full="innamorerò"><div>-erò</div></td><td class="irregular" data-full="innamorerai"><div>-erai</div></td><td class="irregular" data-full="innamorerà"><div>-erà</div></td><td class="irregular" data-full="innamoreremo"><div>-eremo</div></td><td class="irregular" data-full="innamorerete"><div>-erete</div></td><td class="irregular" data-full="innamoreranno"><div>-eranno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>innamor</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="innamora"><div>-a</div></td><td class="irregular" data-full="innamori"><div>-i</div></td><td class="irregular" data-full="innamoriamo"><div>-iamo</div></td><td class="irregular" data-full="innamorate"><div>-ate</div></td><td class="irregular" data-full="innamorino"><div>-ino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="innamorando" colspan="6"><div>innamorando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="innamorato" colspan="6"><div>innamorato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>innamor</div></td><td class="irregular" data-full="innamorerei"><div>-erei</div></td><td class="irregular" data-full="innamoreresti"><div>-eresti</div></td><td class="irregular" data-full="innamorerebbe"><div>-erebbe</div></td><td class="irregular" data-full="innamorerebbero"><div>-erebbero</div></td><td class="irregular" data-full="innamorereste"><div>-ereste</div></td><td class="irregular" data-full="innamorerebbero"><div>-erebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>innamor</div></td><td class="irregular" data-full="innamori"><div>-i</div></td><td class="irregular" data-full="innamori"><div>-i</div></td><td class="irregular" data-full="innamori"><div>-i</div></td><td class="irregular" data-full="innamoriamo"><div>-iamo</div></td><td class="irregular" data-full="innamoriate"><div>-iate</div></td><td class="irregular" data-full="innamorino"><div>-ino</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>innamor</div></td><td class="irregular" data-full="innamorai"><div>-ai</div></td><td class="irregular" data-full="innamorasti"><div>-asti</div></td><td class="irregular" data-full="innamorò"><div>-ò</div></td><td class="irregular" data-full="innamorammo"><div>-ammo</div></td><td class="irregular" data-full="innamoraste"><div>-aste</div></td><td class="irregular" data-full="innamorarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

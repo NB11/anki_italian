@@ -7,21 +7,35 @@ IPA: ''
 Definition: geboren werden
 Register: ''
 Beispielsätze: |-
-  Quando *sei nato*?
-  Wann *bist du geboren*?
+  I neonati *nascono* con un riflesso di suzione.
+  Neugeborene kommen mit einem Saugreflex *zur Welt*.
   
-  Lui *è nato* a Milano nel 1990.
-  Er *ist 1990 in Mailand geboren*.
+  Se avessi saputo che sarebbe *nato* in aprile, gli avrei comprato un regalo.
+  Wenn ich gewusst hätte, dass er im April *geboren wird*, hätte ich ihm ein Geschenk gekauft.
   
-  *Nascerai* un giorno anche tu, piccolo!
-  *Du wirst auch eines Tages geboren*, kleines Wesen!
+  È incredibile come ogni essere umano *nasca* con un destino diverso.
+  Es ist unglaublich, wie jeder Mensch mit einem anderen Schicksal *geboren wird*.
   
-  Spero che *nasca* presto un bambino sano.
-  Ich hoffe, dass bald ein gesundes Kind *geboren wird*.
+  Dicono che i gemelli *nascono* più spesso nelle famiglie dove ci sono già stati casi simili.
+  Man sagt, dass Zwillinge häufiger in Familien *zur Welt kommen*, in denen es bereits ähnliche Fälle gab.
   
-  Noi abbiamo *nato* il nostro progetto dal nulla.
-  Wir haben unser Projekt *aus dem Nichts entstehen lassen*.
+  Nonostante tutte le difficoltà, lei *è nata* per cantare.
+  Trotz aller Schwierigkeiten ist sie *zum Singen geboren*.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">irregolare</div>
+  <div id="conjugation-table" data-aux="essere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="essere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>nasc</div></td><td class="irregular" data-full="nasco"><div>-o</div></td><td class="irregular" data-full="nasci"><div>-i</div></td><td class="irregular" data-full="nasce"><div>-e</div></td><td class="irregular" data-full="nasciamo"><div>-iamo</div></td><td class="irregular" data-full="nascete"><div>-ete</div></td><td class="irregular" data-full="nascono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>nasc</div></td><td class="irregular" data-full="nascavo"><div>-avo</div></td><td class="irregular" data-full="nascavi"><div>-avi</div></td><td class="irregular" data-full="nascava"><div>-ava</div></td><td class="irregular" data-full="nascavamo"><div>-avamo</div></td><td class="irregular" data-full="nascavate"><div>-avate</div></td><td class="irregular" data-full="nascevano"><div>-evano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>nascer</div></td><td class="irregular" data-full="nascerò"><div>-ò</div></td><td class="irregular" data-full="nascerai"><div>-ai</div></td><td class="irregular" data-full="nascerà"><div>-à</div></td><td class="irregular" data-full="nasceremo"><div>-emo</div></td><td class="irregular" data-full="nascerete"><div>-ete</div></td><td class="irregular" data-full="nasceranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>nasc</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="nasci"><div>-i</div></td><td class="irregular" data-full="nasca"><div>-a</div></td><td class="irregular" data-full="nasciamo"><div>-iamo</div></td><td class="irregular" data-full="nascete"><div>-ete</div></td><td class="irregular" data-full="nascano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="nascendo" colspan="6"><div>nascendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con essere)</div></td><td class="irregular" data-full="nato" colspan="6"><div>nato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>nascer</div></td><td class="irregular" data-full="nascerei"><div>-ei</div></td><td class="irregular" data-full="nasceresti"><div>-esti</div></td><td class="irregular" data-full="nascerebbe"><div>-ebbe</div></td><td class="irregular" data-full="nasceremmo"><div>-emmo</div></td><td class="irregular" data-full="nascereste"><div>-este</div></td><td class="irregular" data-full="nascerebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>nasc</div></td><td class="irregular" data-full="nasca"><div>-a</div></td><td class="irregular" data-full="nasca"><div>-a</div></td><td class="irregular" data-full="nasca"><div>-a</div></td><td class="irregular" data-full="nasciamo"><div>-iamo</div></td><td class="irregular" data-full="nascate"><div>-ate</div></td><td class="irregular" data-full="nascano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>nac</div></td><td class="irregular" data-full="nacqui"><div>-qui</div></td><td class="irregular" data-full="nascesti"><div>nascesti</div></td><td class="irregular" data-full="nacque"><div>-que</div></td><td class="irregular" data-full="nascemmo"><div>nascemmo</div></td><td class="irregular" data-full="nasceste"><div>nasceste</div></td><td class="irregular" data-full="nacquero"><div>-quero</div></td></tr>
+  </table>
+  </div>

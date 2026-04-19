@@ -1,0 +1,41 @@
+Rang: 2201
+Wort: tradurre
+Wortart: vt
+Wort mit Artikel: tradurre
+Femininum / Plural: ''
+IPA: ''
+Definition: übersetzen
+Register: ''
+Beispielsätze: |-
+  Devo *tradurre* questo articolo dall'italiano in tedesco entro domani.
+  Ich muss diesen Artikel vom Italienischen ins Deutsche *übersetzen* bis morgen.
+  
+  Il commissario ha *tradotto* le dichiarazioni del testimone in modo molto accurato.
+  Der Kommissar hat die Aussagen des Zeugen sehr genau *übersetzt*.
+  
+  Se tu avessi studiato più, avresti potuto *tradurre* questo testo senza problemi.
+  Hättest du mehr gelernt, hättest du diesen Text problemlos *übersetzen* können.
+  
+  Credo che lui stia cercando qualcuno che sappia *tradurre* dal giapponese in italiano.
+  Ich glaube, dass er jemanden sucht, der Japanisch ins Italienische *übersetzen* kann.
+  
+  Al convegno di giovedì verranno *tradotte* alcune poesie in molte lingue diverse.
+  Am Donnerstag-Kongress werden einige Gedichte in viele verschiedene Sprachen *übersetzt*.
+Audio: ''
+Notiz: ''
+Dispersion: ''
+Konjugation: |-
+  <div id="verb-classification">irregolare</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>traduc</div></td><td class="irregular" data-full="traduco"><div>-o</div></td><td class="irregular" data-full="traduci"><div>-i</div></td><td class="irregular" data-full="traduce"><div>-e</div></td><td class="irregular" data-full="traduciamo"><div>-iamo</div></td><td class="irregular" data-full="traducete"><div>-ete</div></td><td class="irregular" data-full="traducono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>traducev</div></td><td class="irregular" data-full="traducevo"><div>-o</div></td><td class="irregular" data-full="traducevi"><div>-i</div></td><td class="irregular" data-full="traduceva"><div>-a</div></td><td class="irregular" data-full="traducevamo"><div>-amo</div></td><td class="irregular" data-full="traducevate"><div>-ate</div></td><td class="irregular" data-full="traducevano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>tradurr</div></td><td class="irregular" data-full="tradurrò"><div>-ò</div></td><td class="irregular" data-full="tradurrai"><div>-ai</div></td><td class="irregular" data-full="tradurrà"><div>-à</div></td><td class="irregular" data-full="tradurremo"><div>-emo</div></td><td class="irregular" data-full="tradurrete"><div>-ete</div></td><td class="irregular" data-full="tradurranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>traduc</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="traduci"><div>-i</div></td><td class="irregular" data-full="traduca"><div>-a</div></td><td class="irregular" data-full="traduciamo"><div>-iamo</div></td><td class="irregular" data-full="traducete"><div>-ete</div></td><td class="irregular" data-full="traducano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="traducendo" colspan="6"><div>traducendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="tradotto" colspan="6"><div>tradotto</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>tradurr</div></td><td class="irregular" data-full="tradurrei"><div>-ei</div></td><td class="irregular" data-full="tradurresti"><div>-esti</div></td><td class="irregular" data-full="tradurrebbe"><div>-ebbe</div></td><td class="irregular" data-full="tradurremmo"><div>-emmo</div></td><td class="irregular" data-full="tradurreste"><div>-este</div></td><td class="irregular" data-full="tradurrebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>traduc</div></td><td class="irregular" data-full="traduca"><div>-a</div></td><td class="irregular" data-full="traduca"><div>-a</div></td><td class="irregular" data-full="traduca"><div>-a</div></td><td class="irregular" data-full="traduciamo"><div>-iamo</div></td><td class="irregular" data-full="traduciate"><div>-iate</div></td><td class="irregular" data-full="traducano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>traduss</div></td><td class="irregular" data-full="tradussi"><div>-i</div></td><td class="irregular" data-full="traducesti"><div>traducesti</div></td><td class="irregular" data-full="tradusse"><div>-e</div></td><td class="irregular" data-full="traducemmo"><div>traducemmo</div></td><td class="irregular" data-full="traduceste"><div>traduceste</div></td><td class="irregular" data-full="tradussero"><div>-ero</div></td></tr>
+  </table>
+  </div>

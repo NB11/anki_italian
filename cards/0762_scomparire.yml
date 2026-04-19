@@ -4,24 +4,31 @@ Wortart: vi
 Wort mit Artikel: scomparire
 Femininum / Plural: ''
 IPA: ''
-Definition: verschwinden, untergehen
+Definition: verschwinden, untergehen, erlöschen
 Register: ''
 Beispielsätze: |-
-  Il sole *scompare* dietro le montagne al tramonto.
-  Die Sonne *verschwindet* hinter den Bergen bei Sonnenuntergang.
+  Il sole è scomparso *scomparso* dietro le montagne all'orizzonte.
+  Die Sonne ist *verschwunden* hinter den Bergen am Horizont.
   
-  Non *scomparire* mai senza avvertire!
-  *Verschwinde* nie ohne Bescheid zu geben!
+  Credo che il ladro sia scomparso *scomparso* nel silenzio della notte senza lasciare tracce.
+  Ich glaube, der Dieb ist *verschwunden* in der Stille der Nacht ohne Spuren zu hinterlassen.
   
-  I dinosauri sono *scomparsi* milioni di anni fa.
-  Die Dinosaurier sind vor Millionen von Jahren *verschwunden*.
+  Se non troviamo presto una soluzione, molte specie animali potrebbero scomparire *scomparire* per sempre.
+  Wenn wir nicht bald eine Lösung finden, könnten viele Tier*arten* für immer verschwinden.
   
-  Credi che possa *scomparire* nel nulla?
-  Glaubst du, dass er einfach *im Nichts verschwinden* kann?
+  Dopo la guerra, molti documenti storici sono scomparsi *scomparsi* dalle biblioteche cittadine.
+  Nach dem Krieg sind viele historische *Urkunden* aus den Stadtbibliotheken verschwunden.
   
-  Se *scomparisse* tutta l’elettricità, che caos ci sarebbe!
-  Wenn der ganze Strom *verschwinden* würde, gäbe es ein Chaos!
+  Sarebbe un peccato se la nostra cultura locale dovesse scomparire *scomparire* a causa della globalizzazione.
+  Es wäre schade, wenn unsere lokale Kultur aufgrund der Globalisierung *verschwinden* müsste.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-ire</div>
+  <div id="conjugation-table" data-aux="essere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="essere">
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="scomparendo" colspan="6"><div>scomparendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con essere)</div></td><td class="irregular" data-full="scomparso" colspan="6"><div>scomparso</div></td></tr>
+  </table>
+  </div>

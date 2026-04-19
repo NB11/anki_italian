@@ -24,4 +24,10 @@ Beispielsätze: |-
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">irregolare</div>
+  <div id="conjugation-table" data-aux="essere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="essere">
+  
+  </table>
+  </div>

@@ -4,24 +4,38 @@ Wortart: vi
 Wort mit Artikel: scherzare
 Femininum / Plural: ''
 IPA: ''
-Definition: scherzen, Spaß machen
+Definition: scherzen
 Register: ''
 Beispielsätze: |-
-  Stai *scherzando*? Non ci credo!
-  Scherzt *du*? Das glaube ich nicht!
+  Non ti preoccupare, *scherzavo* solo con te!
+  Mach dir keine Sorgen, ich habe nur mit dir *gescherzt*.
   
-  Ieri sera abbiamo *scherzato* per tutta la cena.
-  Gestern Abend haben wir die ganze Zeit *gescherzt*.
+  Vedo che ti ha detto di tutto per *scherzare*, ma non ci provi più.
+  Ich sehe, dass er dir alles gesagt hat, um zu *scherzen*, aber nicht mehr.
   
-  Non *scherzare* con il fuoco, è pericoloso!
-  Spiel nicht mit dem Feuer, das ist gefährlich!
+  Ma secondo te avere lo stesso *scherzare* con la morte è normale?
+  Aber meinst du wirklich, dass es normal ist, mit dem Tod zu *scherzen*?
   
-  Se *scherzi* troppo spesso, gli altri non ti prendono più sul serio.
-  Wenn du zu oft *scherzt*, nehmen dich die anderen nicht mehr ernst.
+  Se proprio vuoi *scherzare*, fallo almeno con qualcosa di divertente!
+  Wenn du unbedingt *scherzen* willst, dann wenigstens mit etwas Lustigem!
   
-  Avrei *scherzato* volentieri, ma lui non rideva mai.
-  Ich hätte gerne *gescherzt*, aber er hat nie gelacht.
+  Perché *scherzare* quando il capo annuncia tagli al personale? È una cosa seria!
+  Warum *scherzt* man, wenn der Chef Entlassungen ankündigt? Das ist ernst!
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>scherz</div></td><td class="irregular" data-full="scherzo"><div>-o</div></td><td class="irregular" data-full="scherzi"><div>-i</div></td><td class="irregular" data-full="scherza"><div>-a</div></td><td class="irregular" data-full="scherziamo"><div>-iamo</div></td><td class="irregular" data-full="scherzate"><div>-ate</div></td><td class="irregular" data-full="scherzano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>scherzav</div></td><td class="irregular" data-full="scherzavo"><div>-o</div></td><td class="irregular" data-full="scherzavi"><div>-i</div></td><td class="irregular" data-full="scherzava"><div>-a</div></td><td class="irregular" data-full="scherzavamo"><div>-amo</div></td><td class="irregular" data-full="scherzavate"><div>-ate</div></td><td class="irregular" data-full="scherzavano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>scherzer</div></td><td class="irregular" data-full="scherzerò"><div>-ò</div></td><td class="irregular" data-full="scherzerai"><div>-ai</div></td><td class="irregular" data-full="scherzerà"><div>-à</div></td><td class="irregular" data-full="scherzeremo"><div>-emo</div></td><td class="irregular" data-full="scherzerete"><div>-ete</div></td><td class="irregular" data-full="scherzeranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>scherz</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="scherza"><div>-a</div></td><td class="irregular" data-full="scherzi"><div>-i</div></td><td class="irregular" data-full="scherziamo"><div>-iamo</div></td><td class="irregular" data-full="scherzate"><div>-ate</div></td><td class="irregular" data-full="scherzino"><div>-ino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="scherzando" colspan="6"><div>scherzando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="scherzato" colspan="6"><div>scherzato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>scherzer</div></td><td class="irregular" data-full="scherzerei"><div>-ei</div></td><td class="irregular" data-full="scherzeresti"><div>-esti</div></td><td class="irregular" data-full="scherzerebbe"><div>-ebbe</div></td><td class="irregular" data-full="scherzeremmo"><div>-emmo</div></td><td class="irregular" data-full="scherzereste"><div>-este</div></td><td class="irregular" data-full="scherzerebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>scherz</div></td><td class="irregular" data-full="scherzi"><div>-i</div></td><td class="irregular" data-full="scherzi"><div>-i</div></td><td class="irregular" data-full="scherzi"><div>-i</div></td><td class="irregular" data-full="scherziamo"><div>-iamo</div></td><td class="irregular" data-full="scherziate"><div>-iate</div></td><td class="irregular" data-full="scherzino"><div>-ino</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>scherz</div></td><td class="irregular" data-full="scherzai"><div>-ai</div></td><td class="irregular" data-full="scherzasti"><div>-asti</div></td><td class="irregular" data-full="scherzò"><div>-ò</div></td><td class="irregular" data-full="scherzammo"><div>-ammo</div></td><td class="irregular" data-full="scherzaste"><div>-aste</div></td><td class="irregular" data-full="scherzarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

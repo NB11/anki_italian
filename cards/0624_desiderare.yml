@@ -4,24 +4,38 @@ Wortart: v
 Wort mit Artikel: desiderare
 Femininum / Plural: ''
 IPA: ''
-Definition: wünschen, begehren
+Definition: wünschen, begehren, möchten
 Register: ''
 Beispielsätze: |-
-  Vorrei *desiderare* un caffè, per favore.
-  Ich möchte mir bitte einen *Kaffee wünschen*.
+  Se *desideri* visitare l'Italia, ti consiglio di partire in primavera.
+  Wenn du *möchtest* Italien zu besuchen, rate ich dir, im Frühling abzureisen.
   
-  Ha *desiderato* da te un grande aiuto.
-  Er hat sich von dir eine große *Hilfe gewünscht*.
+  Ha *desiderato* salutare la sua famiglia prima di partire per la guerra.
+  Er *hat* es sich erwünscht, seine Familie vor dem Krieg zu begrüßen.
   
-  Desideriamo che tu venga alla festa.
-  Wir *wünschen*, dass du zur Party kommst.
+  Nonostante il dolore, *desideravo* rivedere quegli occhi una volta ancora.
+  Trotz des Schmerzes *wünschte* ich mir diese Augen noch einmal zu sehen.
   
-  Avrei *desiderato* sapere la verità prima.
-  Ich hätte die Wahrheit früher *wissen wollen*.
+  Sarebbe *desiderato* che tutti mantenessero la loro parola data.
+  Es wäre *erwünscht*, dass alle ihr gegebenes Wort einhalten.
   
-  Perché non *desideri* un po' di tranquillità?
-  Warum wünschst du dir nicht etwas *Ruhe*?
+  Perché *desideri* sempre sapere i segreti degli altri, invece di vivere la tua vita?
+  Warum *begehrst* du immer die Geheimnisse der anderen zu kennen, statt dein eigenes Leben zu leben?
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>desider</div></td><td class="irregular" data-full="desidero"><div>-o</div></td><td class="irregular" data-full="desideri"><div>-i</div></td><td class="irregular" data-full="desidera"><div>-a</div></td><td class="irregular" data-full="desideriamo"><div>-iamo</div></td><td class="irregular" data-full="desiderate"><div>-ate</div></td><td class="irregular" data-full="desiderano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>desiderav</div></td><td class="irregular" data-full="desideravo"><div>-o</div></td><td class="irregular" data-full="desideravi"><div>-i</div></td><td class="irregular" data-full="desiderava"><div>-a</div></td><td class="irregular" data-full="desideravamo"><div>-amo</div></td><td class="irregular" data-full="desideravate"><div>-ate</div></td><td class="irregular" data-full="desideravano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>desiderer</div></td><td class="irregular" data-full="desidererò"><div>-ò</div></td><td class="irregular" data-full="desidererai"><div>-ai</div></td><td class="irregular" data-full="desidererà"><div>-à</div></td><td class="irregular" data-full="desidereremo"><div>-emo</div></td><td class="irregular" data-full="desidererete"><div>-ete</div></td><td class="irregular" data-full="desidereranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>desider</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="desidera"><div>-a</div></td><td class="irregular" data-full="desideri"><div>-i</div></td><td class="irregular" data-full="desideriamo"><div>-iamo</div></td><td class="irregular" data-full="desiderate"><div>-ate</div></td><td class="irregular" data-full="desiderino"><div>-ino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="desiderando" colspan="6"><div>desiderando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="desiderato" colspan="6"><div>desiderato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>desiderer</div></td><td class="irregular" data-full="desidererei"><div>-ei</div></td><td class="irregular" data-full="desidereresti"><div>-esti</div></td><td class="irregular" data-full="desidererebbe"><div>-ebbe</div></td><td class="irregular" data-full="desidereremmo"><div>-emmo</div></td><td class="irregular" data-full="desiderereste"><div>-este</div></td><td class="irregular" data-full="desidererebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>desider</div></td><td class="irregular" data-full="desideri"><div>-i</div></td><td class="irregular" data-full="desideri"><div>-i</div></td><td class="irregular" data-full="desideri"><div>-i</div></td><td class="irregular" data-full="desideriamo"><div>-iamo</div></td><td class="irregular" data-full="desideriate"><div>-iate</div></td><td class="irregular" data-full="desiderino"><div>-ino</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>desider</div></td><td class="irregular" data-full="desiderai"><div>-ai</div></td><td class="irregular" data-full="desiderasti"><div>-asti</div></td><td class="irregular" data-full="desiderò"><div>-ò</div></td><td class="irregular" data-full="desiderammo"><div>-ammo</div></td><td class="irregular" data-full="desideraste"><div>-aste</div></td><td class="irregular" data-full="desiderarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

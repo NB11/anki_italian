@@ -7,21 +7,35 @@ IPA: ''
 Definition: laufen, gehen, spazieren
 Register: ''
 Beispielsätze: |-
-  Ogni mattina *cammino* per mezz'ora nel parco.
-  Jeden Morgen *gehe* ich eine halbe Stunde im Park *spazieren*.
+  Dopo pranzo mi piace *camminare* un po’ nel parco vicino a casa.
+  Nach dem Mittagessen gehe ich gern ein bisschen im Park in der Nähe spazieren.
   
-  Se non *camminerai* abbastanza, non perderai peso.
-  Wenn du nicht genug *läufst*, wirst du nicht abnehmen.
+  Se vuoi dimagrire, devi *camminare* almeno trenta minuti al giorno.
+  Wenn du abnehmen willst, musst du *laufen* mindestens dreißig Minuten pro Tag.
   
-  Mi dispiace, ma ieri non *ho camminato* molto.
-  Es tut mir leid, aber gestern bin ich nicht viel *gelaufen*.
+  Credo che domani pioverà, quindi non potremo *camminare* in montagna come programmato.
+  Ich glaube, morgen wird es regnen, also können wir nicht wie geplant in den Bergen *gehen*.
   
-  Non vorrei *camminare* così tanto sotto la pioggia.
-  Ich möchte nicht so viel bei *Regen laufen*.
+  Ho visto un cane che *camminava* tranquillo lungo il fiume senza il padrone.
+  Ich habe einen Hund gesehen, der ganz ohne Besitzer ruhig *spazierte*.
   
-  Che ne dici se domani *camminassimo* fino al lago?
-  Was hältst du davon, wenn wir morgen bis zum See *laufen* würden?
+  Non appena avrò finito lo studio, uscirò a *camminare* per schiarirmi le idee.
+  Sobald ich das Lernen beendet habe, gehe ich spazieren, um mir die Gedanken zu klären.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>cammin</div></td><td class="irregular" data-full="cammino"><div>-o</div></td><td class="irregular" data-full="cammini"><div>-i</div></td><td class="irregular" data-full="cammina"><div>-a</div></td><td class="irregular" data-full="camminiamo"><div>-iamo</div></td><td class="irregular" data-full="camminate"><div>-ate</div></td><td class="irregular" data-full="camminano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>camminav</div></td><td class="irregular" data-full="camminavo"><div>-o</div></td><td class="irregular" data-full="camminavi"><div>-i</div></td><td class="irregular" data-full="camminava"><div>-a</div></td><td class="irregular" data-full="camminavamo"><div>-amo</div></td><td class="irregular" data-full="camminavate"><div>-ate</div></td><td class="irregular" data-full="camminavano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>camminer</div></td><td class="irregular" data-full="camminerò"><div>-ò</div></td><td class="irregular" data-full="camminerai"><div>-ai</div></td><td class="irregular" data-full="camminerà"><div>-à</div></td><td class="irregular" data-full="cammineremo"><div>-emo</div></td><td class="irregular" data-full="camminerete"><div>-ete</div></td><td class="irregular" data-full="cammineranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>cammina</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="cammina"><div>·</div></td><td class="irregular" data-full="cammini"><div>cammini</div></td><td class="irregular" data-full="camminiamo"><div>camminiamo</div></td><td class="irregular" data-full="camminate"><div>-te</div></td><td class="irregular" data-full="camminino"><div>camminino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="camminando" colspan="6"><div>camminando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="camminato" colspan="6"><div>camminato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>camminer</div></td><td class="irregular" data-full="camminerei"><div>-ei</div></td><td class="irregular" data-full="cammineresti"><div>-esti</div></td><td class="irregular" data-full="camminerebbe"><div>-ebbe</div></td><td class="irregular" data-full="cammineremmo"><div>-emmo</div></td><td class="irregular" data-full="camminereste"><div>-este</div></td><td class="irregular" data-full="camminerebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>cammini</div></td><td class="irregular" data-full="cammini"><div>·</div></td><td class="irregular" data-full="cammini"><div>·</div></td><td class="irregular" data-full="cammini"><div>·</div></td><td class="irregular" data-full="camminiamo"><div>-amo</div></td><td class="irregular" data-full="camminiate"><div>-ate</div></td><td class="irregular" data-full="camminino"><div>-no</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>cammin</div></td><td class="irregular" data-full="camminai"><div>-ai</div></td><td class="irregular" data-full="camminasti"><div>-asti</div></td><td class="irregular" data-full="camminò"><div>-ò</div></td><td class="irregular" data-full="camminammo"><div>-ammo</div></td><td class="irregular" data-full="camminaste"><div>-aste</div></td><td class="irregular" data-full="camminarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

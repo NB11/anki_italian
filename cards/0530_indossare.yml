@@ -4,24 +4,31 @@ Wortart: vt
 Wort mit Artikel: indossare
 Femininum / Plural: ''
 IPA: ''
-Definition: tragen, anziehen
+Definition: tragen, anziehen, anlegen
 Register: ''
 Beispielsätze: |-
-  Oggi *indosso* una camicia blu.
-  Heute *trage* ich ein blaues Hemd.
+  Ogni mattina devo *indosso* una camicia bianca per lavorare.
+  Jeden Morgen muss ich mir ein weißes Hemd *anziehen*.
   
-  Hai già *indossato* la giacca nuova?
-  Hast du die neue Jacke schon *angezogen*?
+  Se non ti piace la gonna che hai *indossato* ieri, puoi cambiarla oggi stesso.
+  Wenn dir der Rock, den du gestern *getragen hast*, nicht gefällt, kannst du ihn heute noch wechseln.
   
-  Domani *indosserò* un completo elegante.
-  Morgen werde ich einen eleganten Anzug *tragen*.
+  Vuoi che ti *indossi* la giacca per uscire o preferisci restare senza?
+  Soll ich dir die Jacke *anziehen*, um rauszugehen, oder möchtest du lieber ohne bleiben?
   
-  *Indossavamo* sempre scarpe comode quando camminavamo molto.
-  Wir *zogen* immer bequeme Schuhe an, wenn wir viel liefen.
+  Ha promesso di *indossare* la cravatta almeno una volta alla settimana durante il viaggio d’affari.
+  Er hat versprochen, während der Geschäftsreise mindestens einmal pro Woche die Krawatte *anzuziehen*.
   
-  Se fossi ricco, *indosserei* solo abiti di marca.
-  Wenn ich reich wäre, würde ich nur Markenkleidung *tragen*.
+  Credi che basterà *indossare* un vestito elegante per impressionare il presidente o serve qualcosa di più?
+  Glaubst du, es reicht, ein elegantes Kleid zu *tragen*, um den Präsidenten zu beeindrucken, oder braucht es noch mehr?
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="indossando" colspan="6"><div>indossando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="indossato" colspan="6"><div>indossato</div></td></tr>
+  </table>
+  </div>

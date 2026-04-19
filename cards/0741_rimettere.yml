@@ -1,27 +1,41 @@
 Rang: 741
 Wort: rimettere
-Wortart: vt
+Wortart: v
 Wort mit Artikel: rimettere
 Femininum / Plural: ''
 IPA: ''
-Definition: zurücklegen, wieder hinstellen
+Definition: zurückgeben, zurücklegen, wieder anziehen
 Register: ''
 Beispielsätze: |-
-  Devi *rimettere* il libro sullo scaffale dopo averlo preso.
-  Du musst das Buch nach dem Nehmen wieder *auf* das Regal *zurücklegen*.
+  Devo *rimettere* a posto i libri dopo averli presi in prestito dalla biblioteca.
+  Ich muss die Bücher wieder *an ihren Platz zurücklegen*, nachdem ich sie aus der Bibliothek entliehen habe.
   
-  *Rimetterai* mai la mia penna dove l’ho trovata?
-  Wirst du jemals meinen Stift wieder dorthin *zurücklegen*, wo ich ihn gefunden habe?
+  Se non ti senti bene, *rimettili* gli occhiali da sole che ti ho prestato.
+  Wenn du dich nicht gut fühlst, zieh dir die Sonnenbrille *wieder auf*, die ich dir geliehen habe.
   
-  Ho *rimesso* le chiavi sul tavolo perché non sapevo dove fossero.
-  Ich habe die Schlüssel wieder *auf* den Tisch *gelegt*, weil ich nicht wusste, wo sie waren.
+  Non è giusto che *rimetta* sempre lui al banco il computer dopo ogni uso.
+  Es ist nicht fair, dass er nach jedem Gebrauch den Computer *immer wieder an seinen Platz zurückstellt*.
   
-  Se *rimetti* sempre le scarpe in ordine, non le perderai!
-  Wenn du die Schuhe immer wieder *an ihren Platz zurückbringst*, wirst du sie nicht verlieren!
+  Ho promesso di *rimettere* le chiavi nella scatola dove le ho trovate, ma le ho perse di nuovo.
+  Ich habe versprochen, die Schlüssel *zurück in die Kiste zu legen*, wo ich sie gefunden habe, aber ich habe sie erneut verloren.
   
-  Non mi ricordo dove ho *rimesso* il mio portafoglio…
-  Ich erinnere mich nicht mehr, wo ich meinen Geldbeutel *wieder hingelegt* habe…
+  Quando tornai a casa, *rimisi* il cappotto nell’armadio e chiamai subito Maria per sapere come stesse suo padre dopo l’attacco.
+  Als ich nach Hause zurückkehrte, *legte* ich den Mantel wieder in den Schrank und rief sofort Maria an, um zu erfahren, wie es ihrem Vater nach dem Angriff ging.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-ere</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>rimett</div></td><td class="irregular" data-full="rimetto"><div>-o</div></td><td class="irregular" data-full="rimetti"><div>-i</div></td><td class="irregular" data-full="rimette"><div>-e</div></td><td class="irregular" data-full="rimettiamo"><div>-iamo</div></td><td class="irregular" data-full="rimettete"><div>-ete</div></td><td class="irregular" data-full="rimettono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>rimettev</div></td><td class="irregular" data-full="rimettevo"><div>-o</div></td><td class="irregular" data-full="rimettevi"><div>-i</div></td><td class="irregular" data-full="rimetteva"><div>-a</div></td><td class="irregular" data-full="rimettevamo"><div>-amo</div></td><td class="irregular" data-full="rimettevate"><div>-ate</div></td><td class="irregular" data-full="rimettevano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>rimetter</div></td><td class="irregular" data-full="rimetterò"><div>-ò</div></td><td class="irregular" data-full="rimetterai"><div>-ai</div></td><td class="irregular" data-full="rimetterà"><div>-à</div></td><td class="irregular" data-full="rimetteremo"><div>-emo</div></td><td class="irregular" data-full="rimetterete"><div>-ete</div></td><td class="irregular" data-full="rimetteranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>rimett</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="rimetti"><div>-i</div></td><td class="irregular" data-full="rimetta"><div>-a</div></td><td class="irregular" data-full="rimettiamo"><div>-iamo</div></td><td class="irregular" data-full="rimettete"><div>-ete</div></td><td class="irregular" data-full="rimettano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="rimettendo" colspan="6"><div>rimettendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="rimesso" colspan="6"><div>rimesso</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>rimetter</div></td><td class="irregular" data-full="rimetterei"><div>-ei</div></td><td class="irregular" data-full="rimetteresti"><div>-esti</div></td><td class="irregular" data-full="rimetterebbe"><div>-ebbe</div></td><td class="irregular" data-full="rimetteremmo"><div>-emmo</div></td><td class="irregular" data-full="rimettereste"><div>-este</div></td><td class="irregular" data-full="rimetterebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>rimett</div></td><td class="irregular" data-full="rimetta"><div>-a</div></td><td class="irregular" data-full="rimetta"><div>-a</div></td><td class="irregular" data-full="rimetta"><div>-a</div></td><td class="irregular" data-full="rimettiamo"><div>-iamo</div></td><td class="irregular" data-full="rimettiate"><div>-iate</div></td><td class="irregular" data-full="rimettano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>rimis</div></td><td class="irregular" data-full="rimisi"><div>-i</div></td><td class="irregular" data-full="rimettesti"><div>rimettesti</div></td><td class="irregular" data-full="rimise"><div>-e</div></td><td class="irregular" data-full="rimettemmo"><div>rimettemmo</div></td><td class="irregular" data-full="rimetteste"><div>rimetteste</div></td><td class="irregular" data-full="rimisero"><div>-ero</div></td></tr>
+  </table>
+  </div>

@@ -1,27 +1,41 @@
 Rang: 781
 Wort: costringere
-Wortart: v
+Wortart: vt
 Wort mit Artikel: costringere
 Femininum / Plural: ''
 IPA: ''
 Definition: zwingen, nötigen
 Register: ''
 Beispielsätze: |-
-  Non *costringo* mai i miei figli a fare i compiti.
-  Ich *zwinge* meine Kinder nie, Hausaufgaben zu machen.
+  Il governo *costringe* i cittadini a rispettare le nuove leggi.
+  Die Regierung zwingt die Bürger, die neuen Gesetze zu respektieren.
   
-  Ti hanno *costretto* ad accettare quel lavoro?
-  Haben sie dich *gezwungen*, diese Arbeit anzunehmen?
+  Se non avessi *costretto* mio figlio a studiare, ora sarebbe in difficoltà.
+  Wenn ich meinen Sohn nicht dazu gezwungen hätte zu lernen, hätte er jetzt Schwierigkeiten.
   
-  Mi sento *costretto* a dirti la verità.
-  Ich *fühle mich gezwungen*, dir die Wahrheit zu sagen.
+  Credo che la polizia abbia *costretto* il ladro a confessare con minacce.
+  Ich glaube, die Polizei hat den Dieb mit Drohungen dazu gebracht, zu gestehen.
   
-  Se non *costringiamo* i bambini a letto presto, non dormiranno abbastanza.
-  Wenn wir die Kinder nicht *zwingen*, früh ins Bett zu gehen, schlafen sie nicht genug.
+  Non vuole *costringere* nessun altro ad assumere questa responsabilità.
+  Er will niemanden sonst dazu zwingen, diese Verantwortung zu übernehmen.
   
-  Siamo stati *costretti* a cambiare i nostri piani all’ultimo momento.
-  Wir wurden *gezwungen*, unsere Pläne im letzten Moment zu ändern.
+  Ti prego, non *costringermi* a fare questa operazione di nuovo!
+  Bitte zwinge mich nicht, diesen Eingriff noch einmal durchzuführen!
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">irregolare</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>costring</div></td><td class="irregular" data-full="costringo"><div>-o</div></td><td class="irregular" data-full="costringi"><div>-i</div></td><td class="irregular" data-full="costringe"><div>-e</div></td><td class="irregular" data-full="costringiamo"><div>-iamo</div></td><td class="irregular" data-full="costringete"><div>-ete</div></td><td class="irregular" data-full="costringono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>costringe</div></td><td class="irregular" data-full="costringevo"><div>-vo</div></td><td class="irregular" data-full="costringevi"><div>-vi</div></td><td class="irregular" data-full="costringeva"><div>-va</div></td><td class="irregular" data-full="costringevamo"><div>-vamo</div></td><td class="irregular" data-full="costringevate"><div>-vate</div></td><td class="irregular" data-full="costringevano"><div>-vano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>costringer</div></td><td class="irregular" data-full="costringerò"><div>-ò</div></td><td class="irregular" data-full="costringerai"><div>-ai</div></td><td class="irregular" data-full="costringerà"><div>-à</div></td><td class="irregular" data-full="costringeremo"><div>-emo</div></td><td class="irregular" data-full="costringerete"><div>-ete</div></td><td class="irregular" data-full="costringeranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>costring</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="costringi"><div>-i</div></td><td class="irregular" data-full="costringa"><div>-a</div></td><td class="irregular" data-full="costringiamo"><div>-iamo</div></td><td class="irregular" data-full="costringete"><div>-ete</div></td><td class="irregular" data-full="costringano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="costringendo" colspan="6"><div>costringendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="costretto" colspan="6"><div>costretto</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>costringer</div></td><td class="irregular" data-full="costringerei"><div>-ei</div></td><td class="irregular" data-full="costringeresti"><div>-esti</div></td><td class="irregular" data-full="costringerebbe"><div>-ebbe</div></td><td class="irregular" data-full="costringeremmo"><div>-emmo</div></td><td class="irregular" data-full="costringereste"><div>-este</div></td><td class="irregular" data-full="costringerebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>costring</div></td><td class="irregular" data-full="costringa"><div>-a</div></td><td class="irregular" data-full="costringa"><div>-a</div></td><td class="irregular" data-full="costringa"><div>-a</div></td><td class="irregular" data-full="costringiamo"><div>-iamo</div></td><td class="irregular" data-full="costringiate"><div>-iate</div></td><td class="irregular" data-full="costringano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>costrins</div></td><td class="irregular" data-full="costrinsi"><div>-i</div></td><td class="irregular" data-full="costringesti"><div>costringesti</div></td><td class="irregular" data-full="costrinse"><div>-e</div></td><td class="irregular" data-full="costringemmo"><div>costringemmo</div></td><td class="irregular" data-full="costringeste"><div>costringeste</div></td><td class="irregular" data-full="costrinsero"><div>-ero</div></td></tr>
+  </table>
+  </div>

@@ -1,27 +1,41 @@
 Rang: 547
 Wort: perdonare
-Wortart: vt
+Wortart: v
 Wort mit Artikel: perdonare
 Femininum / Plural: ''
 IPA: ''
-Definition: verzeihen
+Definition: verzeihen, vergeben
 Register: ''
 Beispielsätze: |-
-  Ti *perdono* per il tuo errore.
-  Ich *verzeihe* dir für deinen Fehler.
+  Se *perdonare* qualcuno non è semplice, ma ci provo comunque.
+  Wenn es nicht einfach ist, *jemanden zu verzeihen*, versuche ich es trotzdem.
   
-  Spero che mi possiate *perdonare*.
-  Ich hoffe, ihr könnt mir *verzeihen*.
+  Nonostante l’errore, la professoressa ha detto che vuole *perdonare* tutti gli studenti.
+  Trotz des *Fehlers* sagte die Lehrerin, sie wolle allen Schülern vergeben.
   
-  Non *perdonerò* mai la sua cattiveria.
-  Ich werde sein/ihr Gemeinheit nie *verzeihen*.
+  Mi ha chiesto se *perdonavo* ancora le persone che mi avevano fregato a scuola.
+  Er fragte mich, ob ich den Leuten, die mich in der *Schule betrogen* hatten, immer noch verzeihe.
   
-  Hai *perdonato* tuo fratello dopo la lite?
-  Hast du deinem Bruder nach dem Streit *verziehen*?
+  Spero che tu *perdonerai* i cavalli per il rumore che fanno di notte!
+  Ich hoffe, du wirst den *Pferden* verzeihen wegen des Lärms, den sie nachts machen!
   
-  Se ti sbagliassi, mi *perdoneresti*?
-  Wenn ich mich irren würde, würdest du mir *verzeihen*?
+  Se avessi saputo che avrebbe *perdonato* la mia cattiva scelta, non avrei alzato la voce con lui.
+  Hätte ich gewusst, dass er meine *schlechte Wahl* verziehen hätte, hätte ich nicht die Stimme gegen ihn erhoben.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>perdon</div></td><td class="irregular" data-full="perdono"><div>-o</div></td><td class="irregular" data-full="perdoni"><div>-i</div></td><td class="irregular" data-full="perdona"><div>-a</div></td><td class="irregular" data-full="perdoniamo"><div>-iamo</div></td><td class="irregular" data-full="perdonate"><div>-ate</div></td><td class="irregular" data-full="perdonano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>perdonav</div></td><td class="irregular" data-full="perdonavo"><div>-o</div></td><td class="irregular" data-full="perdonavi"><div>-i</div></td><td class="irregular" data-full="perdonava"><div>-a</div></td><td class="irregular" data-full="perdonavamo"><div>-amo</div></td><td class="irregular" data-full="perdonavate"><div>-ate</div></td><td class="irregular" data-full="perdonavano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>perdoner</div></td><td class="irregular" data-full="perdonerò"><div>-ò</div></td><td class="irregular" data-full="perdonerai"><div>-ai</div></td><td class="irregular" data-full="perdonerà"><div>-à</div></td><td class="irregular" data-full="perdoneremo"><div>-emo</div></td><td class="irregular" data-full="perdonerete"><div>-ete</div></td><td class="irregular" data-full="perdoneranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>perdon</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="perdona"><div>-a</div></td><td class="irregular" data-full="perdoni"><div>-i</div></td><td class="irregular" data-full="perdoniamo"><div>-iamo</div></td><td class="irregular" data-full="perdonate"><div>-ate</div></td><td class="irregular" data-full="perdonino"><div>-ino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="perdonando" colspan="6"><div>perdonando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="perdonato" colspan="6"><div>perdonato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>perdoner</div></td><td class="irregular" data-full="perdonerei"><div>-ei</div></td><td class="irregular" data-full="perdoneresti"><div>-esti</div></td><td class="irregular" data-full="perdonerebbe"><div>-ebbe</div></td><td class="irregular" data-full="perdoneremmo"><div>-emmo</div></td><td class="irregular" data-full="perdonereste"><div>-este</div></td><td class="irregular" data-full="perdonerebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>perdon</div></td><td class="irregular" data-full="perdoni"><div>-i</div></td><td class="irregular" data-full="perdoni"><div>-i</div></td><td class="irregular" data-full="perdoni"><div>-i</div></td><td class="irregular" data-full="perdoniamo"><div>-iamo</div></td><td class="irregular" data-full="perdoniate"><div>-iate</div></td><td class="irregular" data-full="perdonino"><div>-ino</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>perdon</div></td><td class="irregular" data-full="perdonai"><div>-ai</div></td><td class="irregular" data-full="perdonasti"><div>-asti</div></td><td class="irregular" data-full="perdonò"><div>-ò</div></td><td class="irregular" data-full="perdonammo"><div>-ammo</div></td><td class="irregular" data-full="perdonaste"><div>-aste</div></td><td class="irregular" data-full="perdonarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

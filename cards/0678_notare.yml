@@ -4,24 +4,38 @@ Wortart: vt
 Wort mit Artikel: notare
 Femininum / Plural: ''
 IPA: ''
-Definition: bemerken, wahrnehmen, auffallen
+Definition: bemerken, wahrnehmen
 Register: ''
 Beispielsätze: |-
-  Non *ho* ancora *notato* nulla di strano.
-  Ich habe noch nichts *Bemerkenswertes* *bemerkt*.
+  Non *ho notato* che eri così stanco dopo il viaggio.
+  Ich habe nicht *bemerkt*, dass du nach der Reise so müde warst.
   
-  *Nota* se senti un rumore strano!
-  *Wahrnehmst* du, wenn du ein seltsames Geräusch *hörst*?
+  Se *noti* qualcosa di strano nella canzone, dimmelo subito!
+  Wenn du etwas Seltsames in dem *Lied* bemerken würdest, sag es mir sofort!
   
-  Mi *è* sembrato di *notare* un cambiamento nel suo atteggiamento.
-  Mir ist *aufgefallen*, dass sich seine Haltung verändert hat.
+  Il *detective* notò un dettaglio importante nella zona del crimine intorno alle ore 22.
+  Der *Detektiv* nahm ein wichtiges Detail in der Zone der Straftat gegen 22 Uhr wahr.
   
-  Se *notassi* qualcosa di sospetto, dovresti avvisare la polizia.
-  Falls du etwas *Bemerkenswertes* *wahrnehmen* *würdest*, solltest du die Polizei informieren.
+  Credo che tu non *noti* quanto caldo faccia qui dentro.
+  Ich glaube, du *bemerken* nicht, wie heiß es hier drinnen ist.
   
-  Credo che lui non *noterebbe* mai la differenza tra queste due foto.
-  Ich glaube, er *würde* den Unterschied zwischen diesen beiden Fotos nie *bemerken*.
+  Finché non *avrai notato* la differenza tra queste due situazioni, non potrai prendere la decisione giusta.
+  Solange du den Unterschied zwischen diesen beiden Situationen nicht *bemerken* wirst, kannst du keine richtige Entscheidung treffen.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>not</div></td><td class="irregular" data-full="noto"><div>-o</div></td><td class="irregular" data-full="noti"><div>-i</div></td><td class="irregular" data-full="nota"><div>-a</div></td><td class="irregular" data-full="notiamo"><div>-iamo</div></td><td class="irregular" data-full="notate"><div>-ate</div></td><td class="irregular" data-full="notano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>notav</div></td><td class="irregular" data-full="notavo"><div>-o</div></td><td class="irregular" data-full="notavi"><div>-i</div></td><td class="irregular" data-full="notava"><div>-a</div></td><td class="irregular" data-full="notavamo"><div>-amo</div></td><td class="irregular" data-full="notavate"><div>-ate</div></td><td class="irregular" data-full="notavano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>noter</div></td><td class="irregular" data-full="noterò"><div>-ò</div></td><td class="irregular" data-full="noterai"><div>-ai</div></td><td class="irregular" data-full="noterà"><div>-à</div></td><td class="irregular" data-full="noteremo"><div>-emo</div></td><td class="irregular" data-full="noterete"><div>-ete</div></td><td class="irregular" data-full="noteranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>not</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="nota"><div>-a</div></td><td class="irregular" data-full="noti"><div>-i</div></td><td class="irregular" data-full="notiamo"><div>-iamo</div></td><td class="irregular" data-full="notate"><div>-ate</div></td><td class="irregular" data-full="notino"><div>-ino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="notando" colspan="6"><div>notando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="notato" colspan="6"><div>notato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>noter</div></td><td class="irregular" data-full="noterei"><div>-ei</div></td><td class="irregular" data-full="noteresti"><div>-esti</div></td><td class="irregular" data-full="noterebbe"><div>-ebbe</div></td><td class="irregular" data-full="noteremmo"><div>-emmo</div></td><td class="irregular" data-full="notereste"><div>-este</div></td><td class="irregular" data-full="noterebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>not</div></td><td class="irregular" data-full="noti"><div>-i</div></td><td class="irregular" data-full="noti"><div>-i</div></td><td class="irregular" data-full="noti"><div>-i</div></td><td class="irregular" data-full="notiamo"><div>-iamo</div></td><td class="irregular" data-full="notiate"><div>-iate</div></td><td class="irregular" data-full="notino"><div>-ino</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>not</div></td><td class="irregular" data-full="notai"><div>-ai</div></td><td class="irregular" data-full="notasti"><div>-asti</div></td><td class="irregular" data-full="notò"><div>-ò</div></td><td class="irregular" data-full="notammo"><div>-ammo</div></td><td class="irregular" data-full="notaste"><div>-aste</div></td><td class="irregular" data-full="notarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

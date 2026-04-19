@@ -24,4 +24,11 @@ Beispielsätze: |-
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="essere" data-h-aspire="false" data-only-third-person="false" data-reflexive="true">
+  <table class="section-conjugation-table" data-aux="essere">
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="svegliandosi" colspan="6"><div>svegliandosi</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con essere)</div></td><td class="irregular" data-full="svegliato" colspan="6"><div>svegliato</div></td></tr>
+  </table>
+  </div>

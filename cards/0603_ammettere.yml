@@ -4,24 +4,38 @@ Wortart: v
 Wort mit Artikel: ammettere
 Femininum / Plural: ''
 IPA: ''
-Definition: zugeben, eingestehen, akzeptieren
+Definition: zugeben, einräumen, eingestehen
 Register: ''
 Beispielsätze: |-
-  Non posso *ammettere* che tu abbia ragione senza prove.
-  Ich kann nicht *zugeben*, dass du ohne Beweise recht hast.
+  Non voglio *ammettere* di aver sbagliato, ma in fondo lo so bene.
+  Ich will nicht *zugeben*, dass ich mich geirrt habe, aber im Grunde weiß ich es genau.
   
-  Dopo ore di discussione, alla fine ha *ammesso* il suo errore.
-  Nach stundenlangem Diskutieren hat er schließlich *eingestanden*, dass er sich geirrt hat.
+  L’avvocato ha consigliato al suo cliente di *ammettere* le proprie colpe per ottenere uno sconto di pena.
+  Der Anwalt hat seinem Mandanten geraten, *einzuräumen*, dass er schuldig ist, um eine Strafmilderung zu erhalten.
   
-  *Ammettiamo* che tu abbia ragione: cosa cambierebbe di concreto?
-  *Nehmen wir an*, du hättest recht: was würde sich konkret ändern?
+  Se *ammettiamo* che il progetto non è perfetto, possiamo migliorarlo insieme.
+  Wenn wir *zugeben*, dass das Projekt nicht perfekt ist, können wir es gemeinsam verbessern.
   
-  È difficile *ammettere* i propri fallimenti davanti agli altri.
-  Es ist schwer, seine *Fehler vor anderen einzusehen*.
+  Era così ostinato che non riuscì mai a *ammettere* di avere torto.
+  Er war so stur, dass er nie einsehen konnte, *einzuräumen*, dass er Unrecht hatte.
   
-  Se *ammettessi* più spesso i tuoi limiti, forse ti giudicherebbero meno severamente.
-  Wenn du öfter deine Grenzen *zugeben würdest*, würden dich die anderen vielleicht weniger hart beurteilen.
+  Dopo lunghe discussioni, la giuria dovette *ammettere* che le prove erano insufficienti.
+  Nach langen Diskussionen musste die Jury *eingestehen*, dass die Beweise unzureichend waren.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-ere</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>ammett</div></td><td class="irregular" data-full="ammetto"><div>-o</div></td><td class="irregular" data-full="ammetti"><div>-i</div></td><td class="irregular" data-full="ammette"><div>-e</div></td><td class="irregular" data-full="ammettiamo"><div>-iamo</div></td><td class="irregular" data-full="ammettete"><div>-ete</div></td><td class="irregular" data-full="ammettono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>ammettev</div></td><td class="irregular" data-full="ammettevo"><div>-o</div></td><td class="irregular" data-full="ammettevi"><div>-i</div></td><td class="irregular" data-full="ammetteva"><div>-a</div></td><td class="irregular" data-full="ammettevamo"><div>-amo</div></td><td class="irregular" data-full="ammettevate"><div>-ate</div></td><td class="irregular" data-full="ammettevano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>ammetter</div></td><td class="irregular" data-full="ammetterò"><div>-ò</div></td><td class="irregular" data-full="ammetterai"><div>-ai</div></td><td class="irregular" data-full="ammetterà"><div>-à</div></td><td class="irregular" data-full="ammetteremo"><div>-emo</div></td><td class="irregular" data-full="ammetterete"><div>-ete</div></td><td class="irregular" data-full="ammetteranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>ammett</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="ammetti"><div>-i</div></td><td class="irregular" data-full="ammetta"><div>-a</div></td><td class="irregular" data-full="ammettiamo"><div>-iamo</div></td><td class="irregular" data-full="ammettete"><div>-ete</div></td><td class="irregular" data-full="ammettano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="ammettendo" colspan="6"><div>ammettendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="ammesso" colspan="6"><div>ammesso</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>ammetter</div></td><td class="irregular" data-full="ammetterei"><div>-ei</div></td><td class="irregular" data-full="ammetteresti"><div>-esti</div></td><td class="irregular" data-full="ammetterebbe"><div>-ebbe</div></td><td class="irregular" data-full="ammetteremmo"><div>-emmo</div></td><td class="irregular" data-full="ammettereste"><div>-este</div></td><td class="irregular" data-full="ammetterebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>ammett</div></td><td class="irregular" data-full="ammetta"><div>-a</div></td><td class="irregular" data-full="ammetta"><div>-a</div></td><td class="irregular" data-full="ammetta"><div>-a</div></td><td class="irregular" data-full="ammettiamo"><div>-iamo</div></td><td class="irregular" data-full="ammettiate"><div>-iate</div></td><td class="irregular" data-full="ammettano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>ammis</div></td><td class="irregular" data-full="ammisi"><div>-i</div></td><td class="irregular" data-full="ammettesti"><div>ammettesti</div></td><td class="irregular" data-full="ammise"><div>-e</div></td><td class="irregular" data-full="ammettemmo"><div>ammettemmo</div></td><td class="irregular" data-full="ammetteste"><div>ammetteste</div></td><td class="irregular" data-full="ammisero"><div>-ero</div></td></tr>
+  </table>
+  </div>

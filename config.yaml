@@ -7,7 +7,7 @@ sentences_per_card: 5      # example sentences per card (1–5)
 
 # ── Mistral API ───────────────────────────────────────────────────────────────
 mistral_model: mistral-small-latest
-mistral_rpm: 45            # requests per minute (free tier: ~60 max)
+mistral_rpm: 30            # requests per minute (free tier: ~60 max)
 
 # ── TTS ───────────────────────────────────────────────────────────────────────
 tts_voice: it-IT-Standard-A   # Google TTS voice (it-IT-Standard-A/B/C/D or Wavenet/Neural2/Studio)

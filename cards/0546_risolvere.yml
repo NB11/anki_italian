@@ -1,27 +1,41 @@
 Rang: 546
 Wort: risolvere
-Wortart: vt
+Wortart: v
 Wort mit Artikel: risolvere
 Femininum / Plural: ''
 IPA: ''
-Definition: lösen, aufklären, klären
+Definition: lösen, klären, beheben
 Register: ''
 Beispielsätze: |-
-  Devi *risolvere* questo problema prima di domani.
-  Du musst dieses Problem bis morgen *lösen*.
+  Credo che dovrai *risolvere* questo problema al più presto.
+  Ich glaube, du wirst *lösen* dieses Problem so schnell wie möglich.
   
-  Ha *risolto* l’enigma in pochi minuti.
-  Er hat das Rätsel in wenigen Minuten *gelöst*.
+  Non sapevo che avessi già *risolto* la faccenda con lui!
+  Ich wusste nicht, dass du die Sache mit ihm schon *geklärt* hattest!
   
-  Vorrei *risolvere* questo malinteso tra noi.
-  Ich würde dieses Missverständnis zwischen uns gerne *klären*.
+  Se avessi più tempo, forse *risolverei* tutto senza fretta.
+  Wenn ich mehr Zeit hätte, würde ich vielleicht alles ohne *Eile* lösen.
   
-  Non so come *risolvere* questa situazione difficile.
-  Ich weiß nicht, wie ich diese schwierige Situation *lösen* soll.
+  È fondamentale *risolvere* la situazione prima che peggiori ancora.
+  Es ist entscheidend, die Situation zu *beheben*, bevor sie noch schlimmer wird.
   
-  Se *risolverai* tutto correttamente, riceverai un premio.
-  Wenn du alles richtig *löst*, erhältst du eine Belohnung.
+  Mi hanno detto che *risolveranno* qualsiasi errore tu abbia fatto.
+  Man hat mir gesagt, dass sie jeden *Fehler*, den du gemacht hast, beheben werden.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-ere</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>risolv</div></td><td class="irregular" data-full="risolvo"><div>-o</div></td><td class="irregular" data-full="risolvi"><div>-i</div></td><td class="irregular" data-full="risolve"><div>-e</div></td><td class="irregular" data-full="risolviamo"><div>-iamo</div></td><td class="irregular" data-full="risolvete"><div>-ete</div></td><td class="irregular" data-full="risolvono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>risolve</div></td><td class="irregular" data-full="risolvevo"><div>-vo</div></td><td class="irregular" data-full="risolvevi"><div>-vi</div></td><td class="irregular" data-full="risolveva"><div>-va</div></td><td class="irregular" data-full="risolvevamo"><div>-vamo</div></td><td class="irregular" data-full="risolvevate"><div>-vate</div></td><td class="irregular" data-full="risolvevano"><div>-vano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>risolver</div></td><td class="irregular" data-full="risolverò"><div>-ò</div></td><td class="irregular" data-full="risolverai"><div>-ai</div></td><td class="irregular" data-full="risolverà"><div>-à</div></td><td class="irregular" data-full="risolveremo"><div>-emo</div></td><td class="irregular" data-full="risolverete"><div>-ete</div></td><td class="irregular" data-full="risolveranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>risolv</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="risolvi"><div>-i</div></td><td class="irregular" data-full="risolva"><div>-a</div></td><td class="irregular" data-full="risolviamo"><div>-iamo</div></td><td class="irregular" data-full="risolvete"><div>-ete</div></td><td class="irregular" data-full="risolvano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="risolvendo" colspan="6"><div>risolvendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="risolto" colspan="6"><div>risolto</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>risolver</div></td><td class="irregular" data-full="risolverei"><div>-ei</div></td><td class="irregular" data-full="risolveresti"><div>-esti</div></td><td class="irregular" data-full="risolverebbe"><div>-ebbe</div></td><td class="irregular" data-full="risolveremmo"><div>-emmo</div></td><td class="irregular" data-full="risolvereste"><div>-este</div></td><td class="irregular" data-full="risolverebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>risolv</div></td><td class="irregular" data-full="risolva"><div>-a</div></td><td class="irregular" data-full="risolva"><div>-a</div></td><td class="irregular" data-full="risolva"><div>-a</div></td><td class="irregular" data-full="risolviamo"><div>-iamo</div></td><td class="irregular" data-full="risolviate"><div>-iate</div></td><td class="irregular" data-full="risolvano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>risolv</div></td><td class="irregular" data-full="risolsi"><div>risolsi</div></td><td class="irregular" data-full="risolvesti"><div>-esti</div></td><td class="irregular" data-full="risolse"><div>risolse</div></td><td class="irregular" data-full="risolvemmo"><div>-emmo</div></td><td class="irregular" data-full="risolveste"><div>-este</div></td><td class="irregular" data-full="risolsero"><div>risolsero</div></td></tr>
+  </table>
+  </div>

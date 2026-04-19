@@ -4,24 +4,38 @@ Wortart: vt
 Wort mit Artikel: attaccare
 Femininum / Plural: ''
 IPA: ''
-Definition: ankleben, anhaften, angreifen, ankoppeln
+Definition: haften, anhaften, ankleben, angreifen
 Register: ''
 Beispielsätze: |-
-  Devo *attaccare* il poster al muro con la colla.
-  Ich muss das Poster mit Kleber an die Wand *kleben*.
+  Il nastro adesivo riesce a *attaccare* la foto alla parete senza problemi.
+  Das Klebeband schafft es, das Foto mit *Haftung* an die Wand zu bringen.
   
-  L'esercito ha *attaccato* la città alle sei del mattino.
-  Die Armee hat die Stadt um sechs Uhr morgens *angegriffen*.
+  Non appena ho aperto la porta, il cane ha cominciato a *attaccare* la mia gamba con entusiasmo.
+  Sobald ich die Tür geöffnet habe, hat der Hund angefangen, mein Bein mit Enthusiasmus zu *beißen*.
   
-  Spero che il computer non *attacchi* un virus.
-  Ich hoffe, dass der Computer keinen *Virus einfängt*.
+  Se continui a *attaccare* importanza a ogni dettaglio, non concluderai mai il progetto.
+  Wenn du weiterhin jede Einzelheit mit *Bedeutung* anheftest, wirst du das Projekt nie abschließen.
   
-  Avrei dovuto *attaccare* questo cavo ieri, ma ho dimenticato.
-  Ich hätte dieses Kabel gestern *anschließen sollen*, aber ich habe es vergessen.
+  Il pittore preferisce *attaccare* i quadri solo dopo averli corretti diverse volte.
+  Der Maler zieht es vor, die Gemälde erst nach mehreren Korrekturen *anzubringen*.
   
-  Se *attaccherai* la spina, la televisione funzionerà.
-  Wenn du den Stecker *ansteckst*, funktioniert der Fernseher.
+  La polizia temeva che il criminale potesse *attaccare* qualche testimone durante il processo.
+  Die Polizei fürchtete, der Kriminelle könnte während des Prozesses einige Zeugen *bedrohen*.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>attacc</div></td><td class="irregular" data-full="attacco"><div>-o</div></td><td class="irregular" data-full="attacchi"><div>-hi</div></td><td class="irregular" data-full="attacca"><div>-a</div></td><td class="irregular" data-full="attacchiamo"><div>-hiamo</div></td><td class="irregular" data-full="attaccate"><div>-ate</div></td><td class="irregular" data-full="attaccano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>attaccav</div></td><td class="irregular" data-full="attaccavo"><div>-o</div></td><td class="irregular" data-full="attaccavi"><div>-i</div></td><td class="irregular" data-full="attaccava"><div>-a</div></td><td class="irregular" data-full="attaccavamo"><div>-amo</div></td><td class="irregular" data-full="attaccavate"><div>-ate</div></td><td class="irregular" data-full="attaccavano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>attaccher</div></td><td class="irregular" data-full="attaccherò"><div>-ò</div></td><td class="irregular" data-full="attaccherai"><div>-ai</div></td><td class="irregular" data-full="attaccherà"><div>-à</div></td><td class="irregular" data-full="attaccheremo"><div>-emo</div></td><td class="irregular" data-full="attaccherete"><div>-ete</div></td><td class="irregular" data-full="attaccheranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>attacc</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="attacca"><div>-a</div></td><td class="irregular" data-full="attacchi"><div>-hi</div></td><td class="irregular" data-full="attacchiamo"><div>-hiamo</div></td><td class="irregular" data-full="attaccate"><div>-ate</div></td><td class="irregular" data-full="attacchino"><div>-hino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="attaccando" colspan="6"><div>attaccando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="attaccato" colspan="6"><div>attaccato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>attaccher</div></td><td class="irregular" data-full="attaccherei"><div>-ei</div></td><td class="irregular" data-full="attaccheresti"><div>-esti</div></td><td class="irregular" data-full="attaccherebbe"><div>-ebbe</div></td><td class="irregular" data-full="attaccheremmo"><div>-emmo</div></td><td class="irregular" data-full="attacchereste"><div>-este</div></td><td class="irregular" data-full="attaccherebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>attacc</div></td><td class="irregular" data-full="attacchi"><div>-hi</div></td><td class="irregular" data-full="attacchi"><div>-hi</div></td><td class="irregular" data-full="attacchi"><div>-hi</div></td><td class="irregular" data-full="attacchiamo"><div>-hiamo</div></td><td class="irregular" data-full="attacchiate"><div>-hiate</div></td><td class="irregular" data-full="attacchino"><div>-hino</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>attacc</div></td><td class="irregular" data-full="attaccai"><div>-ai</div></td><td class="irregular" data-full="attaccasti"><div>-asti</div></td><td class="irregular" data-full="attaccò"><div>-ò</div></td><td class="irregular" data-full="attaccammo"><div>-ammo</div></td><td class="irregular" data-full="attaccaste"><div>-aste</div></td><td class="irregular" data-full="attaccarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

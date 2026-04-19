@@ -1,27 +1,41 @@
 Rang: 727
 Wort: accompagnare
-Wortart: vt
+Wortart: v
 Wort mit Artikel: accompagnare
 Femininum / Plural: ''
 IPA: ''
-Definition: begleiten, mitkommen, führen
+Definition: begleiten, mitkommen
 Register: ''
 Beispielsätze: |-
-  Ti *accompagno* alla stazione se vuoi.
-  Ich *begleite* dich zum Bahnhof, wenn du möchtest.
+  Vuoi che ti *accompagni* a casa stasera?
+  Willst du, dass ich dich heute Abend nach Hause *begleite*?
   
-  Abbiamo *accompagnato* gli ospiti fino all’ingresso.
-  Wir haben die Gäste bis zum Eingang *begleitet*.
+  Ho *accompagnato* mia sorella all’aeroporto perché aveva paura di prendere l’autobus da sola.
+  Ich habe meine Schwester zum Flughafen *begleitet*, weil sie Angst hatte, allein den Bus zu nehmen.
   
-  Mi piacerebbe *accompagnarti* al concerto domani.
-  Ich würde dich gerne morgen zum Konzert *mitkommen* lassen.
+  Se avessi saputo che eri malato, ti avrei *accompagnato* dal medico.
+  Hätte ich gewusst, dass du krank bist, hätte ich dich zum Arzt *begleitet*.
   
-  Perché non mi *accompagni* a fare la spesa?
-  Warum *kommst* du nicht mit, um einkaufen *zu gehen*?
+  È meglio *accompagnare* i bambini a scuola piuttosto che lasciarli andare da soli.
+  Es ist besser, die Kinder zur Schule zu *begleiten*, als sie allein gehen zu lassen.
   
-  Sarebbe gentile se tu *accompagnassi* il bambino a scuola.
-  Es wäre nett, wenn du das Kind zur Schule *begleitest*.
+  Gli amici mi hanno proposto di *accompagnarli* a quella festa così squallida: ho rifiutato immediatamente!
+  Meine Freunde haben mir vorgeschlagen, sie zu dieser so schäbigen Party zu *begleiten* – ich habe sofort abgelehnt!
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>accompagn</div></td><td class="irregular" data-full="accompagno"><div>-o</div></td><td class="irregular" data-full="accompagni"><div>-i</div></td><td class="irregular" data-full="accompagna"><div>-a</div></td><td class="irregular" data-full="accompagniamo"><div>-iamo</div></td><td class="irregular" data-full="accompagnate"><div>-ate</div></td><td class="irregular" data-full="accompagnano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>accompagnav</div></td><td class="irregular" data-full="accompagnavo"><div>-o</div></td><td class="irregular" data-full="accompagnavi"><div>-i</div></td><td class="irregular" data-full="accompagnava"><div>-a</div></td><td class="irregular" data-full="accompagnavamo"><div>-amo</div></td><td class="irregular" data-full="accompagnavate"><div>-ate</div></td><td class="irregular" data-full="accompagnavano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>accompagner</div></td><td class="irregular" data-full="accompagnerò"><div>-ò</div></td><td class="irregular" data-full="accompagnerai"><div>-ai</div></td><td class="irregular" data-full="accompagnerà"><div>-à</div></td><td class="irregular" data-full="accompagneremo"><div>-emo</div></td><td class="irregular" data-full="accompagnerete"><div>-ete</div></td><td class="irregular" data-full="accompagneranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>accompagn</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="accompagna"><div>-a</div></td><td class="irregular" data-full="accompagni"><div>-i</div></td><td class="irregular" data-full="accompagniamo"><div>-iamo</div></td><td class="irregular" data-full="accompagnate"><div>-ate</div></td><td class="irregular" data-full="accompagnino"><div>-ino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="accompagnando" colspan="6"><div>accompagnando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="accompagnato" colspan="6"><div>accompagnato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>accompagner</div></td><td class="irregular" data-full="accompagnerei"><div>-ei</div></td><td class="irregular" data-full="accompagneresti"><div>-esti</div></td><td class="irregular" data-full="accompagnerebbe"><div>-ebbe</div></td><td class="irregular" data-full="accompagneremmo"><div>-emmo</div></td><td class="irregular" data-full="accompagnereste"><div>-este</div></td><td class="irregular" data-full="accompagnerebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>accompagn</div></td><td class="irregular" data-full="accompagni"><div>-i</div></td><td class="irregular" data-full="accompagni"><div>-i</div></td><td class="irregular" data-full="accompagni"><div>-i</div></td><td class="irregular" data-full="accompagniamo"><div>-iamo</div></td><td class="irregular" data-full="accompagniate"><div>-iate</div></td><td class="irregular" data-full="accompagnino"><div>-ino</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>accompagn</div></td><td class="irregular" data-full="accompagnai"><div>-ai</div></td><td class="irregular" data-full="accompagnasti"><div>-asti</div></td><td class="irregular" data-full="accompagnò"><div>-ò</div></td><td class="irregular" data-full="accompagnammo"><div>-ammo</div></td><td class="irregular" data-full="accompagnaste"><div>-aste</div></td><td class="irregular" data-full="accompagnarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

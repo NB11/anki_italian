@@ -262,11 +262,14 @@ async function initAudioButtons(within = document) {
 refreshExampleSentences();
 formatLanguageText();
 
-// Auto-play the Italian word when the answer is revealed
-(async () => {
-  const wordEl = document.querySelector('.word');
-  if (wordEl) playAudio({ text: wordEl.textContent.trim() });
-})();
+// Play the Italian word — autoplay on desktop, tap on mobile
+const wordPlayEl = document.querySelector('.word');
+if (wordPlayEl) {
+  const playWord = () => playAudio({ text: wordPlayEl.textContent.trim() });
+  wordPlayEl.style.cursor = 'pointer';
+  wordPlayEl.onclick = playWord;
+  playWord();
+}
 
 // do not show spoiler for first sentence
 document.querySelector(".spoiler").classList.add("clicked");

@@ -4,24 +4,38 @@ Wortart: v
 Wort mit Artikel: scommettere
 Femininum / Plural: ''
 IPA: ''
-Definition: wetten, setzen
+Definition: wetten, tippen
 Register: ''
 Beispielsätze: |-
-  Voglio *scommettere* cento euro sulla partita di calcio.
-  Ich möchte *hundert Euro* auf das Fußballspiel *wetten*.
+  Ogni mattina *scommetto* dieci euro che pioverà entro sera.
+  Jeden Morgen *wette* ich zehn Euro, dass es bis zum Abend regnen wird.
   
-  Lui *ha scommesso* che vincerai la corsa.
-  Er *hat gewettet*, dass du das Rennen *gewinnst*.
+  Gli studenti hanno *scommesso* che la professoressa non avrebbe corretto il compito in tempo.
+  Die Schüler haben *gewettet*, dass die Lehrerin die Aufgabe nicht rechtzeitig korrigieren würde.
   
-  Non *scommetterei* mai su un cavallo così lento!
-  Ich würde nie auf ein so langsames Pferd *wetten*!
+  Se *scommettessi* su di me, non perderesti mai, perché conosco il mercato.
+  Wenn du *wetten* würdest, würdest du nie verlieren, denn ich kenne den Markt.
   
-  Lei *scommette* sempre sui numeri fortunati.
-  Sie *setzt* immer auf ihre Glückszahlen.
+  Ho sentito che hanno *scommesso* una cena intera al ristorante sulla partita di stasera.
+  Ich habe gehört, sie haben ein ganzes Abendessen im Restaurant auf das heutige Spiel *gesetzt*.
   
-  Se *scommettessi* di più, perderesti molti soldi.
-  Wenn du mehr *wetten würdest*, würdest du viel Geld verlieren.
+  Dopo la discussione, mio fratello volle *scommettere* che avrebbe trovato un errore nel mio rapporto finanziario.
+  Nach der Diskussion wollte mein Bruder *wetten*, dass er einen Fehler in meinem Finanzbericht finden würde.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-ere</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>scommett</div></td><td class="irregular" data-full="scommetto"><div>-o</div></td><td class="irregular" data-full="scommetti"><div>-i</div></td><td class="irregular" data-full="scommette"><div>-e</div></td><td class="irregular" data-full="scommettiamo"><div>-iamo</div></td><td class="irregular" data-full="scommettete"><div>-ete</div></td><td class="irregular" data-full="scommettono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>scommettev</div></td><td class="irregular" data-full="scommettevo"><div>-o</div></td><td class="irregular" data-full="scommettevi"><div>-i</div></td><td class="irregular" data-full="scommetteva"><div>-a</div></td><td class="irregular" data-full="scommettevamo"><div>-amo</div></td><td class="irregular" data-full="scommettevate"><div>-ate</div></td><td class="irregular" data-full="scommettevano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>scommett</div></td><td class="irregular" data-full="scommetterò"><div>-erò</div></td><td class="irregular" data-full="scommetterai"><div>-erai</div></td><td class="irregular" data-full="scommetterà"><div>-erà</div></td><td class="irregular" data-full="scommetteremo"><div>-eremo</div></td><td class="irregular" data-full="scommetterete"><div>-erete</div></td><td class="irregular" data-full="scommetteranno"><div>-eranno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>scommett</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="scommetti"><div>-i</div></td><td class="irregular" data-full="scommetta"><div>-a</div></td><td class="irregular" data-full="scommettiamo"><div>-iamo</div></td><td class="irregular" data-full="scommettete"><div>-ete</div></td><td class="irregular" data-full="scommettano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="scommettendo" colspan="6"><div>scommettendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="scommesso" colspan="6"><div>scommesso</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>scommett</div></td><td class="irregular" data-full="scommetterei"><div>-erei</div></td><td class="irregular" data-full="scommetteresti"><div>-eresti</div></td><td class="irregular" data-full="scommettrebbe"><div>-rebbe</div></td><td class="irregular" data-full="scommettremmo"><div>-remmo</div></td><td class="irregular" data-full="scommettereste"><div>-ereste</div></td><td class="irregular" data-full="scommettrebbero"><div>-rebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>scommett</div></td><td class="irregular" data-full="scommetta"><div>-a</div></td><td class="irregular" data-full="scommetti"><div>-i</div></td><td class="irregular" data-full="scommetta"><div>-a</div></td><td class="irregular" data-full="scommettiamo"><div>-iamo</div></td><td class="irregular" data-full="scommettiate"><div>-iate</div></td><td class="irregular" data-full="scommettano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>scommett</div></td><td class="irregular" data-full="scommisi"><div>scommisi</div></td><td class="irregular" data-full="scommettesti"><div>-esti</div></td><td class="irregular" data-full="scommise"><div>scommise</div></td><td class="irregular" data-full="scommettemmo"><div>-emmo</div></td><td class="irregular" data-full="scommetteste"><div>-este</div></td><td class="irregular" data-full="scommessero"><div>scommessero</div></td></tr>
+  </table>
+  </div>

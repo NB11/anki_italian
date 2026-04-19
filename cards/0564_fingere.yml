@@ -4,24 +4,38 @@ Wortart: v
 Wort mit Artikel: fingere
 Femininum / Plural: ''
 IPA: ''
-Definition: vortäuschen, heucheln, simulieren
+Definition: vortäuschen, simulieren
 Register: ''
 Beispielsätze: |-
-  Lui *finge* di essere malato per non andare a lavoro.
-  Er *täuscht* Krankheit vor, um nicht zur Arbeit zu gehen.
+  Stanno *fingendo* di essere felici per non far preoccupare i genitori.
+  Sie *täuschen* Glück vor, um die Eltern nicht zu beunruhigen.
   
-  Non *fingere* di non capire!
-  *Tu* kannst doch nicht *so tun*, als würdest du es nicht verstehen!
+  Se avessi *finto* di capire, non avresti fatto errori così gravi.
+  Wenn du *vorgegaukelt* hättest zu verstehen, hättest du keine so groben Fehler gemacht.
   
-  Secondo me, lei *finge* la gioia solo per non deludere gli altri.
-  Ich glaube, sie *simuliert* Freude nur, um andere nicht zu enttäuschen.
+  Non credevo che lei avrebbe *finto* di non sapere nulla dell’accaduto!
+  Ich hätte nicht gedacht, dass sie *so tun würde*, als wüsste sie nichts von dem Vorfall!
   
-  Avrei *finto* la felicità se fossi stato al tuo posto.
-  Ich hätte Glück *vorgeheuchelt*, wenn ich an deiner Stelle gewesen wäre.
+  Per *fingere* di essere un esperto, devi studiare molto di più.
+  Um dich als Experten *auszugeben*, musst du viel mehr lernen.
   
-  Molti *fingono* di essere felici sui social, ma in realtà non lo sono.
-  Viele *täuschen* auf sozialen Medien Glück vor, doch in Wahrheit sind sie es nicht.
+  Credo che lui stia *fingendo* solo perché ha paura della verità.
+  Ich glaube, er *täuscht* nur vor, weil er Angst vor der Wahrheit hat.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-ere</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>fing</div></td><td class="irregular" data-full="fingo"><div>-o</div></td><td class="irregular" data-full="fingi"><div>-i</div></td><td class="irregular" data-full="finge"><div>-e</div></td><td class="irregular" data-full="fingiamo"><div>-iamo</div></td><td class="irregular" data-full="fingete"><div>-ete</div></td><td class="irregular" data-full="fingono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>fing</div></td><td class="irregular" data-full="fingevo"><div>-evo</div></td><td class="irregular" data-full="fingevi"><div>-evi</div></td><td class="irregular" data-full="fingeva"><div>-eva</div></td><td class="irregular" data-full="fingevamo"><div>-evamo</div></td><td class="irregular" data-full="fingevate"><div>-evate</div></td><td class="irregular" data-full="fingevano"><div>-evano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>finger</div></td><td class="irregular" data-full="fingerò"><div>-ò</div></td><td class="irregular" data-full="fingerai"><div>-ai</div></td><td class="irregular" data-full="fingerà"><div>-à</div></td><td class="irregular" data-full="fingeremo"><div>-emo</div></td><td class="irregular" data-full="fingerete"><div>-ete</div></td><td class="irregular" data-full="fingeranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>fing</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="fingi"><div>-i</div></td><td class="irregular" data-full="finga"><div>-a</div></td><td class="irregular" data-full="fingiamo"><div>-iamo</div></td><td class="irregular" data-full="fingete"><div>-ete</div></td><td class="irregular" data-full="fingano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="fingendo" colspan="6"><div>fingendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="finto" colspan="6"><div>finto</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>finger</div></td><td class="irregular" data-full="fingerei"><div>-ei</div></td><td class="irregular" data-full="fingeresti"><div>-esti</div></td><td class="irregular" data-full="fingerebbe"><div>-ebbe</div></td><td class="irregular" data-full="fingeremmo"><div>-emmo</div></td><td class="irregular" data-full="fingereste"><div>-este</div></td><td class="irregular" data-full="fingerebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>fing</div></td><td class="irregular" data-full="finga"><div>-a</div></td><td class="irregular" data-full="finga"><div>-a</div></td><td class="irregular" data-full="finga"><div>-a</div></td><td class="irregular" data-full="fingiamo"><div>-iamo</div></td><td class="irregular" data-full="fingiate"><div>-iate</div></td><td class="irregular" data-full="fingano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>fins</div></td><td class="irregular" data-full="finsi"><div>-i</div></td><td class="irregular" data-full="fingesti"><div>fingesti</div></td><td class="irregular" data-full="fingé"><div>fingé</div></td><td class="irregular" data-full="fingemmo"><div>fingemmo</div></td><td class="irregular" data-full="fingeste"><div>fingeste</div></td><td class="irregular" data-full="finsero"><div>-ero</div></td></tr>
+  </table>
+  </div>

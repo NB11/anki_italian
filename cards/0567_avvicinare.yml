@@ -4,24 +4,31 @@ Wortart: vt
 Wort mit Artikel: avvicinare
 Femininum / Plural: ''
 IPA: ''
-Definition: sich nähern, näher bringen
+Definition: annähern, heranbringen
 Register: ''
 Beispielsätze: |-
-  Devo *avvicinare* la sedia al tavolo.
-  Ich muss *mir* den Stuhl *ans* Tisch *heranrücken*.
+  Devo *avvicinare* la sedia per raggiungere meglio il tavolo.
+  Ich muss den Stuhl *näher rücken*, um besser an den Tisch zu kommen.
   
-  Non ti *avvicinare* troppo al cane!
-  *Komm* dem Hund nicht *zu* nah!
+  Non *avvicinare* troppo la bocca all’animale, potrebbe mordere!
+  Bring dein Gesicht nicht zu nah an das Tier heran, es könnte beißen!
   
-  L’aereo sta per *avvicinarsi* alla pista di atterraggio.
-  Das Flugzeug wird sich *bald* der Landebahn *nähern*.
+  Hanno deciso di *avvicinare* le due città con un ponte nuovo.
+  Sie haben beschlossen, die beiden Städte mit einer neuen Brücke *einander anzunähern*.
   
-  Ti *avvicineresti* se avessi il coraggio?
-  *Würdest* du *dich* *nähern*, wenn du den Mut *hättest*?
+  Se non *avvicini* la scala, non riesco a dipingere il soffitto!
+  Wenn du die Leiter nicht *heranbringst*, schaffe ich es nicht, die Decke zu streichen!
   
-  Spero che tu non *avvicini* mai più quella persona.
-  Ich hoffe, du *bringst* dich *niemals* wieder *dieser* Person *näher*.
+  Il poliziotto ha *avvicinato* il testimone per sentire meglio la sua voce.
+  Der Polizist hat den Zeugen *herangeholt*, um seine Stimme besser zu verstehen.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="avvicinando" colspan="6"><div>avvicinando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="avvicinato" colspan="6"><div>avvicinato</div></td></tr>
+  </table>
+  </div>

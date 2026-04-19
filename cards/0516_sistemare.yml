@@ -1,27 +1,41 @@
 Rang: 516
 Wort: sistemare
-Wortart: vt
+Wortart: v
 Wort mit Artikel: sistemare
 Femininum / Plural: ''
 IPA: ''
 Definition: ordnen, einrichten, reparieren
 Register: ''
 Beispielsätze: |-
-  Devo *sistemare* la mia stanza prima che arrivino gli ospiti.
-  Ich muss mein Zimmer *ordnen*, bevor die Gäste kommen.
+  Devo ancora *sistemare* la mia camera prima che i miei genitori arrivino.
+  Ich muss mein Zimmer noch *einrichten*, bevor meine Eltern kommen.
   
-  Hai già *sistemato* i documenti che ti ho dato ieri?
-  Hast du die Unterlagen, die ich dir gestern gegeben habe, schon *eingerichtet*?
+  Hanno *sistemato* tutti i dettagli del viaggio in modo assolutamente perfetto.
+  Sie haben alle Reise*details* ordnet absolut perfekt.
   
-  *Sistemerò* la macchina dal meccanico domani mattina.
-  Ich werde das Auto morgen früh beim Mechaniker *reparieren* lassen.
+  Se non *sistemi* subito questo problema, la situazione peggiorerà.
+  Wenn du dieses Problem nicht sofort *behebst*, wird die Situation schlimmer.
   
-  Sarebbe meglio se tu *sistemassi* prima le priorità.
-  Es wäre besser, wenn du zuerst die Prioritäten *ordnest*.
+  Lui vorrebbe *sistemare* i suoi affari prima di partire, ma non ne ha il tempo sufficiente.
+  Er würde gern seine Angelegenheiten vor der Abreise *regeln*, aber er hat nicht genug Zeit.
   
-  Non so come *sistemare* questo problema da solo.
-  Ich weiß nicht, wie ich dieses Problem allein *lösen* soll.
+  Maria è così brava che riesce a *sistemare* qualsiasi errore al volo.
+  Maria ist so gut, dass sie jeden *Fehler* sofort ausbügeln kann.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>sistem</div></td><td class="irregular" data-full="sistemo"><div>-o</div></td><td class="irregular" data-full="sistemi"><div>-i</div></td><td class="irregular" data-full="sistema"><div>-a</div></td><td class="irregular" data-full="sistemiamo"><div>-iamo</div></td><td class="irregular" data-full="sistematate"><div>-atate</div></td><td class="irregular" data-full="sistemano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>sistemav</div></td><td class="irregular" data-full="sistemavo"><div>-o</div></td><td class="irregular" data-full="sistemavi"><div>-i</div></td><td class="irregular" data-full="sistemava"><div>-a</div></td><td class="irregular" data-full="sistemavamo"><div>-amo</div></td><td class="irregular" data-full="sistemavate"><div>-ate</div></td><td class="irregular" data-full="sistemavano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>sistemer</div></td><td class="irregular" data-full="sistemerò"><div>-ò</div></td><td class="irregular" data-full="sistemerai"><div>-ai</div></td><td class="irregular" data-full="sistemerà"><div>-à</div></td><td class="irregular" data-full="sistemeremo"><div>-emo</div></td><td class="irregular" data-full="sistemerete"><div>-ete</div></td><td class="irregular" data-full="sistemeranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>sistem</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="sistema"><div>-a</div></td><td class="irregular" data-full="sistemi"><div>-i</div></td><td class="irregular" data-full="sistemiate"><div>-iate</div></td><td class="irregular" data-full="sistematate"><div>-atate</div></td><td class="irregular" data-full="sistemino"><div>-ino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="sistemando" colspan="6"><div>sistemando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="sistemato" colspan="6"><div>sistemato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>sistem</div></td><td class="irregular" data-full="sistemerei"><div>-erei</div></td><td class="irregular" data-full="sistemeresti"><div>-eresti</div></td><td class="irregular" data-full="sistemerebbe"><div>-erebbe</div></td><td class="irregular" data-full="sistemeremmo"><div>-eremmo</div></td><td class="irregular" data-full="sistemereste"><div>-ereste</div></td><td class="irregular" data-full="sistemerebbero"><div>-erebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>sistem</div></td><td class="irregular" data-full="sistemi"><div>-i</div></td><td class="irregular" data-full="sistemi"><div>-i</div></td><td class="irregular" data-full="sistemi"><div>-i</div></td><td class="irregular" data-full="sistemiate"><div>-iate</div></td><td class="irregular" data-full="sistemiate"><div>-iate</div></td><td class="irregular" data-full="sistemino"><div>-ino</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>sistem</div></td><td class="irregular" data-full="sistemai"><div>-ai</div></td><td class="irregular" data-full="sistemasti"><div>-asti</div></td><td class="irregular" data-full="sistemò"><div>-ò</div></td><td class="irregular" data-full="sistemammo"><div>-ammo</div></td><td class="irregular" data-full="sistemaste"><div>-aste</div></td><td class="irregular" data-full="sistemarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

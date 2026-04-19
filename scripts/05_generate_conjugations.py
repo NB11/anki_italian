@@ -125,6 +125,7 @@ def _stem_and_endings(forms: list[str]) -> tuple[str, list[str]]:
     Returns (stem, endings) where each ending is "-suffix" or "·" when no suffix.
     Falls back to ("", forms) when the common prefix is shorter than 3 characters.
     """
+    forms = [f[0] if isinstance(f, list) else str(f) if f is not None else "" for f in forms]
     real = [f for f in forms if f and f != "—"]
     if not real:
         return "", list(forms)
@@ -157,13 +158,16 @@ def _endings_from_stem(forms: list[str], stem: str) -> list[str]:
         return list(forms)
     endings: list[str] = []
     for f in forms:
+        if isinstance(f, list):
+            f = f[0] if f else ""
+        f = str(f) if f is not None else ""
         if not f or f == "—":
             endings.append("—")
         elif f.startswith(stem):
             suffix = f[len(stem):]
             endings.append(f"-{suffix}" if suffix else "·")
         else:
-            endings.append(f)   # form doesn't share the stem → show it in full
+            endings.append(f)
     return endings
 
 
@@ -188,7 +192,7 @@ def _build_html(data: dict) -> str:
 
         # ── Single-form tenses: Gerundio and Participio passato ──────────────
         if tense in ("G", "PC"):
-            form = str(val).strip()
+            form = str(val[0] if isinstance(val, list) else val).strip()
             stem_text = f"(con {escape(aux)})" if tense == "PC" else ""
             cells = (
                 _td("tense", label)
@@ -200,6 +204,8 @@ def _build_html(data: dict) -> str:
 
         # ── Six-form tenses ───────────────────────────────────────────────────
         forms   = val if isinstance(val, list) else [str(val)]
+        # Coerce every form to a plain string (Mistral occasionally returns lists)
+        forms   = [f[0] if isinstance(f, list) else str(f) if f is not None else "" for f in forms]
         persons = ["lui/lei"] if only_third else PERSONS
 
         # Pad / trim to match number of persons
@@ -227,6 +233,9 @@ def _build_html(data: dict) -> str:
             cells += "<td></td>"
 
         rows.append(row_open + cells + "</tr>")
+
+    if not rows:
+        raise ValueError("Mistral returned no recognisable tense data — will retry")
 
     table = (
         f'<table class="section-conjugation-table" data-aux="{escape(aux)}">\n'
@@ -387,7 +396,14 @@ def main() -> None:
             time.sleep(DELAY)
             continue
 
-        html = _build_html(data)
+        try:
+            html = _build_html(data)
+        except ValueError as exc:
+            print(f"ERROR: {exc}")
+            errors.append(f"{lemma}: {exc}")
+            time.sleep(DELAY)
+            continue
+
         card["Konjugation"] = html
         _write_card(card, path)
 

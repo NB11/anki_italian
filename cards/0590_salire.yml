@@ -4,24 +4,38 @@ Wortart: vi
 Wort mit Artikel: salire
 Femininum / Plural: ''
 IPA: ''
-Definition: hinaufgehen, besteigen, einsteigen
+Definition: hinaufgehen, besteigen, hochsteigen, einsteigen
 Register: ''
 Beispielsätze: |-
-  Oggi *saliamo* le scale a piedi perché l'ascensore è rotto.
-  Heute *gehen wir* die Treppe hinauf, weil der Aufzug kaputt ist.
+  Devi *salire* le scale per arrivare al secondo piano.
+  Du musst *die Treppen* hinaufgehen, um in die zweite Etage zu kommen.
   
-  Vuoi *salire* con me in montagna questo fine settimana?
-  Möchtest du diesen Samstag mit mir in die Berge *hinaufgehen*?
+  Quando hai *salito* sull’autobus, ho già trovato un posto.
+  Als du *in den Bus eingestiegen* bist, hatte ich schon einen Platz gefunden.
   
-  Sono *salito* sul tetto per aggiustare l'antenna.
-  Ich bin aufs Dach *gestiegen*, um die Antenne zu reparieren.
+  Se *salirò* sulla montagna domani, ti porterò una foto.
+  Wenn ich morgen *den Berg besteigen* werde, bringe ich dir ein Foto mit.
   
-  Se *sali* su quel treno sbagliato, farai tardi all'appuntamento.
-  Wenn du in diesen falschen Zug *einsteigst*, kommst du zu spät zum Termin.
+  È meglio che tu non *salga* su quella scala rotta, potrebbe rovinare tutto!
+  Es ist besser, dass du nicht *auf diese kaputte Leiter steigst*, sonst zerstörst du noch alles!
   
-  Domani *saliremo* in cima alla torre per la vista panoramica.
-  Morgen werden wir auf die Spitze des Turms *hinaufsteigen*, um die Aussicht zu genießen.
+  Nonostante il guaio con il programma, abbiamo deciso di *salire* lo stesso sulla torre.
+  Trotz des *Problems* mit dem Plan haben wir beschlossen, trotzdem auf den Turm zu steigen.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-ire</div>
+  <div id="conjugation-table" data-aux="essere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="essere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>salg</div></td><td class="irregular" data-full="salgo"><div>-o</div></td><td class="irregular" data-full="sali"><div>sali</div></td><td class="irregular" data-full="sale"><div>sale</div></td><td class="irregular" data-full="saliamo"><div>saliamo</div></td><td class="irregular" data-full="salite"><div>salite</div></td><td class="irregular" data-full="salgono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>saliv</div></td><td class="irregular" data-full="salivo"><div>-o</div></td><td class="irregular" data-full="salivi"><div>-i</div></td><td class="irregular" data-full="saliva"><div>-a</div></td><td class="irregular" data-full="salivamo"><div>-amo</div></td><td class="irregular" data-full="salivate"><div>-ate</div></td><td class="irregular" data-full="salivano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>salir</div></td><td class="irregular" data-full="salirò"><div>-ò</div></td><td class="irregular" data-full="salirai"><div>-ai</div></td><td class="irregular" data-full="salirà"><div>-à</div></td><td class="irregular" data-full="saliremo"><div>-emo</div></td><td class="irregular" data-full="salirete"><div>-ete</div></td><td class="irregular" data-full="saliranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>sali</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="sali"><div>·</div></td><td class="irregular" data-full="saliamo"><div>-amo</div></td><td class="irregular" data-full="salite"><div>-te</div></td><td class="irregular" data-full="salgano"><div>salgano</div></td><td class="irregular"><div>—</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="salendo" colspan="6"><div>salendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con essere)</div></td><td class="irregular" data-full="salito" colspan="6"><div>salito</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>salir</div></td><td class="irregular" data-full="salirei"><div>-ei</div></td><td class="irregular" data-full="saliresti"><div>-esti</div></td><td class="irregular" data-full="salirebbe"><div>-ebbe</div></td><td class="irregular" data-full="saliremmo"><div>-emmo</div></td><td class="irregular" data-full="salireste"><div>-este</div></td><td class="irregular" data-full="salirebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>salg</div></td><td class="irregular" data-full="salga"><div>-a</div></td><td class="irregular" data-full="sali"><div>sali</div></td><td class="irregular" data-full="salga"><div>-a</div></td><td class="irregular" data-full="saliamo"><div>saliamo</div></td><td class="irregular" data-full="saliate"><div>saliate</div></td><td class="irregular" data-full="salgano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>sali</div></td><td class="irregular" data-full="salii"><div>-i</div></td><td class="irregular" data-full="salisti"><div>-sti</div></td><td class="irregular" data-full="salì"><div>salì</div></td><td class="irregular" data-full="salimmo"><div>-mmo</div></td><td class="irregular" data-full="saliste"><div>-ste</div></td><td class="irregular" data-full="salirono"><div>-rono</div></td></tr>
+  </table>
+  </div>

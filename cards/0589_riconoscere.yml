@@ -1,27 +1,41 @@
 Rang: 589
 Wort: riconoscere
-Wortart: v
+Wortart: vt
 Wort mit Artikel: riconoscere
 Femininum / Plural: ''
 IPA: ''
-Definition: erkennen, wiedererkennen, zugeben
+Definition: erkennen, wiedererkennen
 Register: ''
 Beispielsätze: |-
-  Non *riconosco* più questa città, è cambiata molto.
-  Ich *erkenne* diese Stadt nicht wieder, sie hat sich sehr verändert.
+  Non *ho riconosciuto* il mio vicino quando l’ho visto in centro ieri.
+  Ich habe meinen Nachbarn nicht *wiedererkannt*, als ich ihn gestern in der Innenstadt gesehen habe.
   
-  Dobbiamo *riconoscere* i nostri errori per migliorare.
-  Wir müssen unsere *Fehler zugeben*, um uns zu verbessern.
+  Credo che *riconoscerò* subito l’uomo che mi ha aiutato l’anno scorso.
+  Ich glaube, ich werde den Mann, der mir letztes Jahr geholfen hat, sofort *erkennen*.
   
-  *Riconosci* quel cane che abbaia sempre in piazza?
-  *Erkennst* du diesen Hund, der immer auf dem Platz bellt?
+  È difficile *riconoscere* i volti quando indossano una maschera.
+  Es ist schwierig, Gesichter *wiederzuerkennen*, wenn sie eine Maske tragen.
   
-  Se *avessi* più tempo, *riconosceresti* subito la soluzione.
-  Wenn du mehr Zeit *hättest*, würdest du die Lösung sofort *erkennen*.
+  Se *riuscirò a riconoscere* le tracce, ti avvertirò immediatamente.
+  Wenn ich die Spuren *erkennen* kann, werde ich dich sofort warnen.
   
-  Spero che tu *riconosca* quanto sia importante questo progetto.
-  Ich hoffe, dass du *erkennst*, wie wichtig dieses Projekt ist.
+  Mi dispiace, ma non *riconosco* la tua voce al telefono.
+  Es tut mir leid, aber ich *erkenne* deine Stimme am Telefon nicht.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">irregolare</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>riconosc</div></td><td class="irregular" data-full="riconosco"><div>-o</div></td><td class="irregular" data-full="riconosci"><div>-i</div></td><td class="irregular" data-full="riconosce"><div>-e</div></td><td class="irregular" data-full="riconosciamo"><div>-iamo</div></td><td class="irregular" data-full="riconoscete"><div>-ete</div></td><td class="irregular" data-full="riconoscono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>riconosc</div></td><td class="irregular" data-full="riconosc(e)vo"><div>-(e)vo</div></td><td class="irregular" data-full="riconosc(e)vi"><div>-(e)vi</div></td><td class="irregular" data-full="riconosc(e)va"><div>-(e)va</div></td><td class="irregular" data-full="riconosc(e)vamo"><div>-(e)vamo</div></td><td class="irregular" data-full="riconosc(e)vate"><div>-(e)vate</div></td><td class="irregular" data-full="riconosc(e)vano"><div>-(e)vano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>riconoscer</div></td><td class="irregular" data-full="riconoscerò"><div>-ò</div></td><td class="irregular" data-full="riconoscerai"><div>-ai</div></td><td class="irregular" data-full="riconoscerà"><div>-à</div></td><td class="irregular" data-full="riconosceremo"><div>-emo</div></td><td class="irregular" data-full="riconoscerete"><div>-ete</div></td><td class="irregular" data-full="riconosceranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>riconosc</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="riconosci"><div>-i</div></td><td class="irregular" data-full="riconosca"><div>-a</div></td><td class="irregular" data-full="riconosciamo"><div>-iamo</div></td><td class="irregular" data-full="riconoscete"><div>-ete</div></td><td class="irregular" data-full="riconoscono"><div>-ono</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="riconoscendo" colspan="6"><div>riconoscendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="riconosciuto" colspan="6"><div>riconosciuto</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>riconoscer</div></td><td class="irregular" data-full="riconoscer(e)i"><div>-(e)i</div></td><td class="irregular" data-full="riconoscer(e)sti"><div>-(e)sti</div></td><td class="irregular" data-full="riconoscer(e)bbe"><div>-(e)bbe</div></td><td class="irregular" data-full="riconoscer(e)mmmo"><div>-(e)mmmo</div></td><td class="irregular" data-full="riconoscer(e)ste"><div>-(e)ste</div></td><td class="irregular" data-full="riconoscer(e)bbero"><div>-(e)bbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>riconosc</div></td><td class="irregular" data-full="riconosca"><div>-a</div></td><td class="irregular" data-full="riconosci"><div>-i</div></td><td class="irregular" data-full="riconosca"><div>-a</div></td><td class="irregular" data-full="riconosciamo"><div>-iamo</div></td><td class="irregular" data-full="riconosciate"><div>-iate</div></td><td class="irregular" data-full="riconoscono"><div>-ono</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>riconobb</div></td><td class="irregular" data-full="riconobbi"><div>-i</div></td><td class="irregular" data-full="riconoscesti"><div>riconoscesti</div></td><td class="irregular" data-full="riconobbe"><div>-e</div></td><td class="irregular" data-full="riconoscemmo"><div>riconoscemmo</div></td><td class="irregular" data-full="riconosceste"><div>riconosceste</div></td><td class="irregular" data-full="riconobbero"><div>-ero</div></td></tr>
+  </table>
+  </div>

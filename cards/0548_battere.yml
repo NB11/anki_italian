@@ -4,24 +4,38 @@ Wortart: v
 Wort mit Artikel: battere
 Femininum / Plural: ''
 IPA: ''
-Definition: schlagen, klopfen
+Definition: schlagen, klopfen, schlagen
 Register: ''
 Beispielsätze: |-
-  Devi *battere* le uova per fare la frittata.
-  Du musst die *Eier* schlagen, um das Omelett zu machen.
+  Devi *battere* le uova per fare una frittata, non semplicemente sbatterle!
+  Du musst die Eier *schlagen*, um ein Omelett zu machen, nicht nur schütteln.
   
-  Il cuoco ha *battuto* il burro per renderlo più morbido.
-  Der Koch hat die *Butter* geschlagen, um sie weicher zu machen.
+  Anche se non era d’accordo, alla fine ha accettato di *battere* il record mondiale.
+  Obwohl er nicht einverstanden war, hat er schließlich zugestimmt, den Weltrekord *aufzustellen*.
   
-  *Batman* batte sempre i cattivi nella sua città.
-  *Batman* schlägt die Bösewichte immer in seiner Stadt.
+  Mia nonna mi ha insegnato a *battere* il tappeto con un bastone per pulirlo a fondo.
+  Meine Großmutter hat mir beigebracht, den Teppich mit einem Stock *zu klopfen*, um ihn gründlich zu reinigen.
   
-  Se *batti* questo chiodo con forza, entrerà nel muro.
-  Wenn du diesen *Nagel* kräftig schlägst, geht er in die Wand.
+  Se vuoi che il chiodo entri nel muro, *batte* molto più forte con il martello!
+  Wenn du willst, dass der Nagel in die Wand geht, *schlag* viel kräftiger mit dem Hammer!
   
-  Hanno detto che domani *batteranno* il record della maratona.
-  Sie haben gesagt, dass sie morgen den *Marathonrekord* schlagen werden.
+  L’arbitro ha deciso di *battere* il calcio d’inizio dopo la lunga revisione dell’arbitro aggiunto.
+  Der Schiedsrichter hat beschlossen, den Anstoß *auszuführen* nach der langen Nachprüfung des vierten Schiedsrichters.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-ere</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>batt</div></td><td class="irregular" data-full="batto"><div>-o</div></td><td class="irregular" data-full="batti"><div>-i</div></td><td class="irregular" data-full="batte"><div>-e</div></td><td class="irregular" data-full="battiamo"><div>-iamo</div></td><td class="irregular" data-full="battete"><div>-ete</div></td><td class="irregular" data-full="battono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>batt</div></td><td class="irregular" data-full="battevo"><div>-evo</div></td><td class="irregular" data-full="battevi"><div>-evi</div></td><td class="irregular" data-full="batteva"><div>-eva</div></td><td class="irregular" data-full="battavamo"><div>-avamo</div></td><td class="irregular" data-full="battavate"><div>-avate</div></td><td class="irregular" data-full="battevano"><div>-evano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>batter</div></td><td class="irregular" data-full="batterò"><div>-ò</div></td><td class="irregular" data-full="batterai"><div>-ai</div></td><td class="irregular" data-full="batterà"><div>-à</div></td><td class="irregular" data-full="batteremo"><div>-emo</div></td><td class="irregular" data-full="batterete"><div>-ete</div></td><td class="irregular" data-full="batteranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>batt</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="batti"><div>-i</div></td><td class="irregular" data-full="batta"><div>-a</div></td><td class="irregular" data-full="battiamo"><div>-iamo</div></td><td class="irregular" data-full="battete"><div>-ete</div></td><td class="irregular" data-full="battano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="battendo" colspan="6"><div>battendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="battuto" colspan="6"><div>battuto</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>batter</div></td><td class="irregular" data-full="batterei"><div>-ei</div></td><td class="irregular" data-full="batteresti"><div>-esti</div></td><td class="irregular" data-full="batterebbe"><div>-ebbe</div></td><td class="irregular" data-full="batteremmo"><div>-emmo</div></td><td class="irregular" data-full="battereste"><div>-este</div></td><td class="irregular" data-full="batterebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>batt</div></td><td class="irregular" data-full="batta"><div>-a</div></td><td class="irregular" data-full="batti"><div>-i</div></td><td class="irregular" data-full="batta"><div>-a</div></td><td class="irregular" data-full="battiamo"><div>-iamo</div></td><td class="irregular" data-full="battiate"><div>-iate</div></td><td class="irregular" data-full="battano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>batt</div></td><td class="irregular" data-full="battei"><div>-ei</div></td><td class="irregular" data-full="battesti"><div>-esti</div></td><td class="irregular" data-full="batté"><div>-é</div></td><td class="irregular" data-full="battemmo"><div>-emmo</div></td><td class="irregular" data-full="batteste"><div>-este</div></td><td class="irregular" data-full="batterono"><div>-erono</div></td></tr>
+  </table>
+  </div>

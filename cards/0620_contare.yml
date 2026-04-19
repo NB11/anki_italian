@@ -4,24 +4,38 @@ Wortart: v
 Wort mit Artikel: contare
 Femininum / Plural: ''
 IPA: ''
-Definition: zählen, berechnen, zählen auf
+Definition: zählen, zählen auf
 Register: ''
 Beispielsätze: |-
-  Io *conto* fino a dieci.
-  Ich *zähle* bis zehn.
+  Devi *contare* fino a dieci per calmarti dopo la corsa.
+  Du musst dich *beruhigen*, indem du bis zehn zählst.
   
-  Quanto *conta* questa fattura?
-  Wie viel *kostet* diese Rechnung?
+  Non *contiamo* su di te per l’aiuto finanziario, purtroppo.
+  Wir *rechnen* nicht mehr mit deiner finanziellen Unterstützung, leider.
   
-  *Conta* su di me per il tuo aiuto!
-  Du kannst dich auf mich *verlassen* für deine Hilfe!
+  Se avessi tempo, vorrei *contare* tutte le stelle del cielo stasera.
+  Wenn ich Zeit hätte, würde ich heute Abend alle Sterne am Himmel *zählen* wollen.
   
-  Noi abbiamo *contato* tutte le penne nel cassetto.
-  Wir haben alle Stifte in der Schublade *gezählt*.
+  Dicono che gli italiani *contino* molto sulla famiglia nelle difficoltà.
+  Man sagt, dass Italiener sich in Schwierigkeiten sehr auf die Familie *verlassen*.
   
-  Se *contassi* fino a cento, dormirai meglio.
-  Wenn du bis hundert *zählst*, wirst du besser schlafen.
+  Ho *contato* almeno cinquanta persone alla festa di Natale dello zio.
+  Ich habe auf der Weihnachtsfeier meines Onkels mindestens fünfzig Personen *gezählt*.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>cont</div></td><td class="irregular" data-full="conto"><div>-o</div></td><td class="irregular" data-full="conti"><div>-i</div></td><td class="irregular" data-full="conta"><div>-a</div></td><td class="irregular" data-full="contiamo"><div>-iamo</div></td><td class="irregular" data-full="contate"><div>-ate</div></td><td class="irregular" data-full="contano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>contav</div></td><td class="irregular" data-full="contavo"><div>-o</div></td><td class="irregular" data-full="contavi"><div>-i</div></td><td class="irregular" data-full="contava"><div>-a</div></td><td class="irregular" data-full="contavamo"><div>-amo</div></td><td class="irregular" data-full="contavate"><div>-ate</div></td><td class="irregular" data-full="contavano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>conter</div></td><td class="irregular" data-full="conterò"><div>-ò</div></td><td class="irregular" data-full="contarai"><div>contarai</div></td><td class="irregular" data-full="conterà"><div>-à</div></td><td class="irregular" data-full="conteremo"><div>-emo</div></td><td class="irregular" data-full="conterete"><div>-ete</div></td><td class="irregular" data-full="conteranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>cont</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="conta"><div>-a</div></td><td class="irregular" data-full="conti"><div>-i</div></td><td class="irregular" data-full="contiamo"><div>-iamo</div></td><td class="irregular" data-full="contate"><div>-ate</div></td><td class="irregular" data-full="contino"><div>-ino</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="contando" colspan="6"><div>contando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="contato" colspan="6"><div>contato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>conter</div></td><td class="irregular" data-full="conterei"><div>-ei</div></td><td class="irregular" data-full="contarest"><div>contarest</div></td><td class="irregular" data-full="conterebbe"><div>-ebbe</div></td><td class="irregular" data-full="conteremmo"><div>-emmo</div></td><td class="irregular" data-full="contereste"><div>-este</div></td><td class="irregular" data-full="conterebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>cont</div></td><td class="irregular" data-full="conti"><div>-i</div></td><td class="irregular" data-full="conti"><div>-i</div></td><td class="irregular" data-full="conti"><div>-i</div></td><td class="irregular" data-full="contiamo"><div>-iamo</div></td><td class="irregular" data-full="contate"><div>-ate</div></td><td class="irregular" data-full="contino"><div>-ino</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>cont</div></td><td class="irregular" data-full="contai"><div>-ai</div></td><td class="irregular" data-full="contasti"><div>-asti</div></td><td class="irregular" data-full="contò"><div>-ò</div></td><td class="irregular" data-full="contammo"><div>-ammo</div></td><td class="irregular" data-full="contaste"><div>-aste</div></td><td class="irregular" data-full="contarono"><div>-arono</div></td></tr>
+  </table>
+  </div>

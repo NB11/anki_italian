@@ -35,8 +35,11 @@ function render() {
 
 render();
 
-// Auto-play the Italian word when the card is shown
-(async () => {
-  const wordEl = document.querySelector('.word');
-  if (wordEl) playAudio({ text: wordEl.textContent.trim() });
-})();
+// Play the Italian word — autoplay on desktop, tap on mobile
+const wordEl = document.querySelector('.word');
+if (wordEl) {
+  const playWord = () => playAudio({ text: wordEl.textContent.trim() });
+  wordEl.style.cursor = 'pointer';
+  wordEl.onclick = playWord;
+  playWord();
+}

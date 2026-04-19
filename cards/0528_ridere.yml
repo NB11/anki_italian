@@ -7,21 +7,35 @@ IPA: ''
 Definition: lachen
 Register: ''
 Beispielsätze: |-
-  Ogni volta che *ride* sento una grande felicità.
-  Immer wenn er *lacht*, fühle ich große Freude.
+  Non *ride* mai quando qualcuno racconta barzellette, perché è troppo serio.
+  Er *lacht* nie, wenn jemand Witze erzählt, denn er ist zu ernst.
   
-  Ieri abbiamo *riso* per tutto il film.
-  Gestern haben wir über den ganzen Film *gelacht*.
+  Mi piacerebbe tanto che i bambini *risero* più spesso, sono sempre così silenziosi.
+  Ich wünschte, die Kinder würden öfter *lachen*, sie sind immer so still.
   
-  Vorrai *ridere* quando saprai la notizia!
-  Du wirst *lachen*, wenn du die Neuigkeit erfährst!
+  Se avessi saputo che sarebbe venuto, avrei preparato un dolce per far *ridere* tutti.
+  Hätte ich gewusst, dass er kommt, hätte ich einen Kuchen gemacht, um alle zum *Lachen* zu bringen.
   
-  Spero che tu *ridessi* più spesso.
-  Ich wünschte, du würdest öfter *lachen*.
+  È inutile che tu cerchi di *ridere* oggi, dopo tutto quello che è successo ieri sera tra noi.
+  Es hat keinen Sinn, dass du heute *lachen* willst, nach allem, was gestern Abend zwischen uns passiert ist.
   
-  Se avessimo tempo, *riderebbero* insieme.
-  Wenn sie Zeit hätten, würden sie zusammen *lachen*.
+  Appena ho letto il titolo della lettera, ho capito che avrebbe fatto *ridere* tutti gli amici.
+  Sobald ich den Titel des Briefes gelesen hatte, wusste ich, dass er alle Freunde zum *Lachen* bringen würde.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-ere</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>rid</div></td><td class="irregular" data-full="rido"><div>-o</div></td><td class="irregular" data-full="ridi"><div>-i</div></td><td class="irregular" data-full="ride"><div>-e</div></td><td class="irregular" data-full="ridiamo"><div>-iamo</div></td><td class="irregular" data-full="ridete"><div>-ete</div></td><td class="irregular" data-full="ridono"><div>-ono</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>ridev</div></td><td class="irregular" data-full="ridevo"><div>-o</div></td><td class="irregular" data-full="ridevi"><div>-i</div></td><td class="irregular" data-full="rideva"><div>-a</div></td><td class="irregular" data-full="ridevamo"><div>-amo</div></td><td class="irregular" data-full="ridevate"><div>-ate</div></td><td class="irregular" data-full="ridevano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>ridr</div></td><td class="irregular" data-full="ridrò"><div>-ò</div></td><td class="irregular" data-full="ridrai"><div>-ai</div></td><td class="irregular" data-full="ridrà"><div>-à</div></td><td class="irregular" data-full="ridremo"><div>-emo</div></td><td class="irregular" data-full="ridrete"><div>-ete</div></td><td class="irregular" data-full="ridranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>rid</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="ridi"><div>-i</div></td><td class="irregular" data-full="rida"><div>-a</div></td><td class="irregular" data-full="ridiamo"><div>-iamo</div></td><td class="irregular" data-full="ridete"><div>-ete</div></td><td class="irregular" data-full="ridano"><div>-ano</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="ridendo" colspan="6"><div>ridendo</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="riso" colspan="6"><div>riso</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>ridr</div></td><td class="irregular" data-full="riderei"><div>riderei</div></td><td class="irregular" data-full="ridresti"><div>-esti</div></td><td class="irregular" data-full="ridrebbe"><div>-ebbe</div></td><td class="irregular" data-full="ridremmo"><div>-emmo</div></td><td class="irregular" data-full="ridreste"><div>-este</div></td><td class="irregular" data-full="ridrebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>rid</div></td><td class="irregular" data-full="rida"><div>-a</div></td><td class="irregular" data-full="rida"><div>-a</div></td><td class="irregular" data-full="rida"><div>-a</div></td><td class="irregular" data-full="ridiamo"><div>-iamo</div></td><td class="irregular" data-full="ridiate"><div>-iate</div></td><td class="irregular" data-full="ridano"><div>-ano</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>ris</div></td><td class="irregular" data-full="risi"><div>-i</div></td><td class="irregular" data-full="ridesti"><div>ridesti</div></td><td class="irregular" data-full="rise"><div>-e</div></td><td class="irregular" data-full="ridemmo"><div>ridemmo</div></td><td class="irregular" data-full="rideste"><div>rideste</div></td><td class="irregular" data-full="risero"><div>-ero</div></td></tr>
+  </table>
+  </div>

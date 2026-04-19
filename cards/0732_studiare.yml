@@ -7,21 +7,35 @@ IPA: ''
 Definition: lernen, studieren
 Register: ''
 Beispielsätze: |-
-  Devo *studiare* molto per l'esame di domani.
-  Ich muss *bis morgen* sehr für die Prüfung *studieren*.
+  Dopo il pranzo devo ancora *studiare* per l'esame di domani.
+  Nach dem *Mittagessen* muss ich noch für die Prüfung lernen.
   
-  *Studi* ancora all'università di Berlino?
-  *Studierst du* noch an der Universität *Berlin*?
+  Se non *studiassi* di più, non supererai l'esame.
+  Wenn du nicht mehr *lernen* würdest, bestehst du die Prüfung nicht.
   
-  Hanno *studiato* insieme per il concorso pubblico.
-  Sie haben *für das öffentliche Auswahlverfahren* gemeinsam *studiert*.
+  Ho incontrato Marco che *stava studiando* all'università per ore.
+  Ich habe Marco getroffen, der stundenlang an der Universität *studiert* hat.
   
-  Se *studiassi* di più, supereresti l'esame facilmente.
-  Wenn du mehr *studierst*, würdest du die Prüfung leicht bestehen.
+  Domani mattina *studierò* la lezione sull'attacco cardiaco.
+  Morgen früh werde ich die Lektion über den Herzangriff *studieren*.
   
-  Spero che tu *studi* seriamente per questa materia importante.
-  Ich hoffe, du *studierst* dich für dieses wichtige Fach *ernsthaft*.
+  Che tu *studi* o no, il risultato dipende da te.
+  Ob du *lernst* oder nicht, das Ergebnis hängt von dir ab.
 Audio: ''
 Notiz: ''
 Dispersion: ''
-Konjugation: ''
+Konjugation: |-
+  <div id="verb-classification">-are</div>
+  <div id="conjugation-table" data-aux="avere" data-h-aspire="false" data-only-third-person="false" data-reflexive="false">
+  <table class="section-conjugation-table" data-aux="avere">
+  <tr data-tense="P"><td class="tense"><div>Presente</div></td><td class="tense_stem"><div>studi</div></td><td class="irregular" data-full="studio"><div>-o</div></td><td class="irregular" data-full="studi"><div>·</div></td><td class="irregular" data-full="studia"><div>-a</div></td><td class="irregular" data-full="studiamo"><div>-amo</div></td><td class="irregular" data-full="studiate"><div>-ate</div></td><td class="irregular" data-full="studiano"><div>-ano</div></td></tr>
+  <tr data-tense="IT"><td class="tense"><div>Imperfetto</div></td><td class="tense_stem"><div>studiav</div></td><td class="irregular" data-full="studiavo"><div>-o</div></td><td class="irregular" data-full="studiavi"><div>-i</div></td><td class="irregular" data-full="studiava"><div>-a</div></td><td class="irregular" data-full="studiavamo"><div>-amo</div></td><td class="irregular" data-full="studiavate"><div>-ate</div></td><td class="irregular" data-full="studiavano"><div>-ano</div></td></tr>
+  <tr data-tense="F"><td class="tense"><div>Futuro</div></td><td class="tense_stem"><div>studier</div></td><td class="irregular" data-full="studierò"><div>-ò</div></td><td class="irregular" data-full="studierai"><div>-ai</div></td><td class="irregular" data-full="studierà"><div>-à</div></td><td class="irregular" data-full="studieremo"><div>-emo</div></td><td class="irregular" data-full="studierete"><div>-ete</div></td><td class="irregular" data-full="studieranno"><div>-anno</div></td></tr>
+  <tr data-tense="IF"><td class="tense"><div>Imperativo</div></td><td class="tense_stem"><div>studi</div></td><td class="irregular" data-full="—"><div>—</div></td><td class="irregular" data-full="studia"><div>-a</div></td><td class="irregular" data-full="studi"><div>·</div></td><td class="irregular" data-full="studiamo"><div>-amo</div></td><td class="irregular" data-full="studiate"><div>-ate</div></td><td class="irregular" data-full="studino"><div>-no</div></td></tr>
+  <tr data-tense="G"><td class="tense"><div>Gerundio</div></td><td class="tense_stem"><div></div></td><td class="irregular" data-full="studiando" colspan="6"><div>studiando</div></td></tr>
+  <tr data-tense="PC"><td class="tense"><div>Pass.&#8239;pross.</div></td><td class="tense_stem"><div>(con avere)</div></td><td class="irregular" data-full="studiato" colspan="6"><div>studiato</div></td></tr>
+  <tr data-tense="C"><td class="tense"><div>Condizionale</div></td><td class="tense_stem"><div>studier</div></td><td class="irregular" data-full="studierei"><div>-ei</div></td><td class="irregular" data-full="studieresti"><div>-esti</div></td><td class="irregular" data-full="studierebbe"><div>-ebbe</div></td><td class="irregular" data-full="studieremmo"><div>-emmo</div></td><td class="irregular" data-full="studiereste"><div>-este</div></td><td class="irregular" data-full="studierebbero"><div>-ebbero</div></td></tr>
+  <tr data-tense="S" class="regular_tense"><td class="tense"><div>Congiuntivo</div></td><td class="tense_stem"><div>studi</div></td><td class="irregular" data-full="studi"><div>·</div></td><td class="irregular" data-full="studi"><div>·</div></td><td class="irregular" data-full="studi"><div>·</div></td><td class="irregular" data-full="studiamo"><div>-amo</div></td><td class="irregular" data-full="studiate"><div>-ate</div></td><td class="irregular" data-full="studino"><div>-no</div></td></tr>
+  <tr data-tense="PS" class="regular_tense"><td class="tense"><div>Pass.&#8239;remoto</div></td><td class="tense_stem"><div>studi</div></td><td class="irregular" data-full="studiai"><div>-ai</div></td><td class="irregular" data-full="studiasti"><div>-asti</div></td><td class="irregular" data-full="studiò"><div>-ò</div></td><td class="irregular" data-full="studiammo"><div>-ammo</div></td><td class="irregular" data-full="studiaste"><div>-aste</div></td><td class="irregular" data-full="studiarono"><div>-arono</div></td></tr>
+  </table>
+  </div>
