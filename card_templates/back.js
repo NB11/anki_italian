@@ -169,6 +169,7 @@ function refreshExampleSentences() {
         ? processText(de, false, false)
         : processText(fr, true, false),
       sentenceToRead: processText(fr, true, false),
+      audioFile: `${paddedRank}_s${currentSentence + 1}.mp3`,
       gameContainer,
       isGerman: frenchFirst,
       showOverlay: false,
@@ -262,13 +263,9 @@ async function initAudioButtons(within = document) {
 refreshExampleSentences();
 formatLanguageText();
 
-// Play the Italian word — autoplay on desktop, tap on mobile
-const wordPlayEl = document.querySelector('.word');
-if (wordPlayEl) {
-  const playWord = () => playAudio({ text: wordPlayEl.textContent.trim() });
-  wordPlayEl.style.cursor = 'pointer';
-  wordPlayEl.onclick = playWord;
-  playWord();
+const playWordButton = document.getElementById('play-word-button');
+if (playWordButton) {
+  playWordButton.dataset.fileName = paddedRank + '_w.mp3';
 }
 
 // do not show spoiler for first sentence

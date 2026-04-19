@@ -1298,6 +1298,10 @@ small {
   font-style: italic;
 }
 
+.conjugation {
+  overflow: hidden;
+}
+
 #conjugation-table {
   font-size: 95%;
   margin-left: auto;
@@ -1305,6 +1309,7 @@ small {
   margin-bottom: 0;
   table-layout: fixed;
   width: 100%;
+  max-width: 100%;
 
   tbody {
     vertical-align: middle;
@@ -1664,6 +1669,22 @@ $stagger-item-increment: 0.04s;
     &:hover {
       text-decoration: none;
     }
+  }
+}
+
+#play-word-button {
+  display: flex;
+  margin: 0.8em auto 0.4em;
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  min-height: 36px;
+  max-width: 36px;
+  max-height: 36px;
+
+  .svg-icon {
+    width: 22px;
+    height: 22px;
   }
 }
 

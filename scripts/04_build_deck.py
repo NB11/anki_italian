@@ -142,11 +142,14 @@ def _compile_front_html(
 def _card_to_fields(card: dict) -> list[str]:
     """Return field values in FIELD_NAMES order."""
     beispiele_raw = card.get("Beispielsätze", "") or ""
-    # Newlines in the field are read back correctly by the JS split("\n\n")
     beispiele = beispiele_raw.strip()
 
+    rank = str(card.get("Rang", ""))
+    word_audio_file = AUDIO_DIR / f"{int(rank):04d}_w.mp3" if rank.isdigit() else None
+    audio = f"[sound:{int(rank):04d}_w.mp3]" if word_audio_file and word_audio_file.exists() else (card.get("Audio") or "")
+
     return [
-        str(card.get("Rang", "")),
+        rank,
         card.get("Wort",               "") or "",
         card.get("Wortart",            "") or "",
         card.get("Wort mit Artikel",   "") or "",
@@ -155,7 +158,7 @@ def _card_to_fields(card: dict) -> list[str]:
         card.get("Definition",         "") or "",
         card.get("Register",           "") or "",
         beispiele,
-        card.get("Audio",              "") or "",
+        audio,
         card.get("Notiz",              "") or "",
         card.get("Dispersion",         "") or "",
         card.get("Konjugation",        "") or "",

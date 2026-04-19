@@ -18,13 +18,19 @@
 <audio>
   <source src="" />
 </audio>
-<div class="word">{{Wort}}</div>
+<div class="word" data-rank="{{Rang}}">{{Wort}}</div>
+<div class="pos-definition">
+  <div id="play-word-button" class="button svg-button" data-file-name="">
+    <div class="svg-icon icon-play"></div>
+  </div>
+</div>
 {{#Beispielsätze}}
 <div id="front-sentence">
   <div id="sentences-inner" class="tappable">{{Beispielsätze}}</div>
   <div id="cloze-game"></div>
 </div>
 {{/Beispielsätze}}
+<div style="display:none">{{#Audio}}{{Audio}}{{/Audio}}</div>
 <!--------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------->

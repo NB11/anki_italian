@@ -116,6 +116,14 @@ function shuffleArray(arr, persist = true) {
   return arr;
 }
 
+function getAnkiPrefix() {
+  return globalThis.ankiPlatform === "desktop"
+    ? ""
+    : globalThis.AnkiDroidJS
+    ? "https://appassets.androidplatform.net"
+    : "";
+}
+
 async function fetchAudio({
   text,
   customFileName = undefined,
@@ -130,14 +138,29 @@ async function fetchAudio({
 }
 
 async function playAudio({ text, customFileName = undefined, lang = "it-IT" }) {
-  await fetchAudio({ text, customFileName, lang });
   const audioCurrent = document.querySelector("audio");
 
+  if (customFileName) {
+    // Synchronous path: URL is already known, so set src and play() immediately
+    // within the user gesture — no await, so iOS allows it.
+    audioCurrent.src = getAnkiPrefix() + "/" + customFileName;
+    audioCurrent.play().catch(() => {
+      // File missing fallback: try live TTS
+      getTTSUrl(text, true, lang).then(url => {
+        audioCurrent.src = url;
+        audioCurrent.play().catch(() => {});
+      });
+    });
+    return;
+  }
+
+  // Live TTS path (no pre-generated file)
+  await fetchAudio({ text, customFileName, lang });
   try {
     await audioCurrent.play();
   } catch {
     audioCurrent.src = await getTTSUrl(text, true, lang);
-    audioCurrent.play();
+    audioCurrent.play().catch(() => {});
   }
 }
 

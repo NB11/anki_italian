@@ -4,6 +4,7 @@ function initClozeGame({
   gameContainer,
   isGerman = false,
   showOverlay = true,
+  audioFile = undefined,
 }) {
   gameContainer.classList.add("tappable");
 
@@ -38,7 +39,7 @@ function initClozeGame({
       icon: "play",
       iconSize: "large",
       onClick: () => {
-        playAudio({ text: sentenceToRead });
+        playAudio({ text: sentenceToRead, customFileName: audioFile });
       }
     });
 
@@ -216,7 +217,7 @@ function initClozeGame({
         preloadCountdown <= 0
       ) {
         preloadAudio = false;
-        fetchAudio({ text: sentenceToRead });
+        fetchAudio({ text: sentenceToRead, customFileName: audioFile });
       }
 
       clearErrorOutlines();
@@ -247,7 +248,7 @@ function initClozeGame({
     gameContainer.classList.add("finished");
     gameContainer.classList.remove("tappable");
     if (options.autoPlaySentenceOnClozeFinish) {
-      playAudio({ text: sentenceToRead });
+      playAudio({ text: sentenceToRead, customFileName: audioFile });
     }
   }
 }

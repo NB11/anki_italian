@@ -38,11 +38,17 @@ STEPS = [
     {
         "n": 4,
         "script": "scripts/03_generate_audio.py",
-        "desc":   "Generate audio MP3s via Google TTS",
+        "desc":   "Generate sentence audio MP3s via Google TTS",
         "check":  None,   # always run (handles resume internally)
     },
     {
         "n": 5,
+        "script": "scripts/06_generate_word_audio.py",
+        "desc":   "Generate word pronunciation MP3s via Google TTS",
+        "check":  None,   # always run (handles resume internally)
+    },
+    {
+        "n": 6,
         "script": "scripts/04_build_deck.py",
         "desc":   "Build Anki .apkg deck",
         "check":  None,
