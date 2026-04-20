@@ -1,6 +1,6 @@
 # Italiano 5000
 
-Ein Anki-Deck mit den **5000 häufigsten italienischen Wörtern** – mit Audio, Beispielsätzen und Verbkonjugationen.
+Lerne die 5000 häufigsten italienischen Wörter, ausgewählt nach dem SUBTLEX-IT-Korpus (Worthäufigkeiten aus Film- und TV-Untertiteln) kombiniert mit einem Nachrichtenkorpus.
 
 > Herunterladen auf [AnkiWeb](https://ankiweb.net/shared/info/XXXXXXX) *(Link einfügen)*
 
@@ -10,13 +10,15 @@ Ein Anki-Deck mit den **5000 häufigsten italienischen Wörtern** – mit Audio,
 
 Jede Karte enthält:
 
-- **Aussprache-Audio** (Google Cloud TTS)
-- **5 Beispielsätze** mit deutscher Übersetzung
-- **Wortart**, Artikel, Plural- und Femininform
-- **Konjugationstabelle** für Verben
-- **Häufigkeitsrang** 
+- 🔊 **Aussprache-Audio** (Google Cloud TTS)
+- 📖 **5 Beispielsätze** mit deutscher Übersetzung (generiert mit Mistral API)
+- 🔤 **Wortart**, Artikel, Plural- und Femininform
+- 📋 **Konjugationstabelle** für Verben
+- 📈 **Häufigkeitsrang**
 
-Zwei Kartentypen pro Wort: **Italienisch → Deutsch** und **Deutsch → Italienisch**
+Zwei Kartentypen pro Wort:
+- Italienisch → Deutsch
+- Deutsch → Italienisch
 
 ---
 
@@ -82,3 +84,5 @@ Die Karten liegen als YAML-Dateien im Ordner [`cards/`](cards).
 
 Die Karteninhalte stehen unter [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/deed.de).  
 Der Quellcode in [`card_templates/`](card_templates) steht unter der Apache-2.0-Lizenz.
+
+Die Karten-Templates basieren auf dem [Français 5000](https://ankiweb.net/shared/info/1677131827) Deck und wurden für Italienisch angepasst.
