@@ -4,7 +4,6 @@
 
 
 # ── Generated build artefacts ─────────────────────────────────────────────────
-*.apkg
 audio/
 
 # ── Corpus data (large, not needed in repo) ───────────────────────────────────
@@ -25,3 +24,4 @@ build/
 # ── OS noise ──────────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
+.out

@@ -99,7 +99,8 @@ def _compile_back_js(config_path: Path, common_js: str, version_ms: int) -> str:
     return back
 
 
-def _compile_back_html(back_js: str, version_ms: int, tts_api_key: str) -> str:
+def _compile_back_html(back_js: str, version_ms: int, tts_api_key: str,
+                       word_autoplay: bool = False) -> str:
     """Resolve back.html: inject JS + replace all placeholders."""
     persistence = _read(TMPL / "persistence.js")
     html = _read(TMPL / "back.html")
@@ -107,10 +108,20 @@ def _compile_back_html(back_js: str, version_ms: int, tts_api_key: str) -> str:
     # Remove the grammar JSON prefetch link (no Italian grammar file)
     html = re.sub(r'<link[^>]+prefetch[^>]*>\s*', '', html)
 
-    html = html.replace("___PERSISTENCE___;",       persistence)
-    html = html.replace("___BACKJS___;",            back_js)
-    html = html.replace("___DATE___",               datetime.now().strftime("%d.%m.%Y"))
-    html = html.replace("___GOOGLE_TTS_KEY___", tts_api_key)
+    if word_autoplay:
+        word_audio_html = (
+            '<div style="display:none">{{#Audio}}{{Audio}}{{/Audio}}</div>\n'
+            '<div id="play-word-button" class="button svg-button" data-file-name="">'
+            '<div class="svg-icon icon-play"></div></div>'
+        )
+    else:
+        word_audio_html = ""
+
+    html = html.replace("___WORD_AUDIO___",           word_audio_html)
+    html = html.replace("___PERSISTENCE___;",         persistence)
+    html = html.replace("___BACKJS___;",              back_js)
+    html = html.replace("___DATE___",                 datetime.now().strftime("%d.%m.%Y"))
+    html = html.replace("___GOOGLE_TTS_KEY___",       tts_api_key)
 
     return html
 
@@ -190,8 +201,8 @@ def main() -> None:
     back_itde_js   = _compile_back_js(TMPL / "back_ITDE_config.js", common_js, version_ms)
     back_deit_js   = _compile_back_js(TMPL / "back_DEIT_config.js", common_js, version_ms)
 
-    back_itde_html = _compile_back_html(back_itde_js, version_ms, tts_api_key)
-    back_deit_html = _compile_back_html(back_deit_js, version_ms, tts_api_key)
+    back_itde_html = _compile_back_html(back_itde_js, version_ms, tts_api_key, word_autoplay=False)
+    back_deit_html = _compile_back_html(back_deit_js, version_ms, tts_api_key, word_autoplay=True)
 
     front_itde_html = _compile_front_html(
         "front_ITDE.html", "front_ITDE.js", common_js, tts_api_key

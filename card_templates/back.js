@@ -266,6 +266,10 @@ formatLanguageText();
 const playWordButton = document.getElementById('play-word-button');
 if (playWordButton) {
   playWordButton.dataset.fileName = paddedRank + '_w.mp3';
+  playWordButton.onclick = function(e) {
+    e.stopPropagation();
+    playAudio({ text: word, customFileName: paddedRank + '_w.mp3' });
+  };
 }
 
 // do not show spoiler for first sentence
